@@ -6,7 +6,7 @@ GetFileContent <- function(fileName){
 }
 
 # define text sample
-x <- GetFileContent("/home/marco/Documenti/projects/boccaccio-geo/data/partials/0207.txt")
+x <- GetFileContent("../data/partials/0210.txt")
 
 install.packages("udpipe")
 vignette("udpipe-tryitout", package = "udpipe")
@@ -20,6 +20,6 @@ dl <- udpipe_download_model(language = "italian")
 dl
 
 udmodel_italian <- udpipe_load_model(file = "italian-ud-2.0-170801.udpipe")
-x <- udpipe_annotate(udmodel_italian,  x = GetFileContent("/home/marco/Documenti/projects/boccaccio-geo/data/partials/0207.txt"))
-cat(x$conllu, file="alatiel.conllu")
+x <- udpipe_annotate(udmodel_italian,  x)
+cat(x$conllu, file="../data/out/conllu/0210.conllu")
 # x <- as.data.frame(x)

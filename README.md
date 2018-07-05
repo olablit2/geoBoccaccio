@@ -1,6 +1,3 @@
-# geoBoccaccio
-geoBoccaccio repository
-
 # Nuove prospettive per lo studio della toponomastica nel Decameron
 
 **Marcello Bolpagni**ℵ, **Marco Petolicchio**ℶ
@@ -30,7 +27,7 @@ Preliminary steps
 
 ### Geographic information
 
-* Use UDPIPE with the 10 subcorpora. Write the relative CONNL-U files of each partials
+* [DONE] Use UDPIPE with the 10 subcorpora. Write the relative CONLL-U files of each partials
 * Extract all the PROPN | SP tokens for each partials (Use G Spreadsheet)
 ```
 	=query({IMPORTRANGE("https://docs.google.com/spreadsheets/d/1Qh7mGzfW2ow8RzOniqO_-60JST6pbT71dfzaz_GtV0k";"prova!A1:J15000")}; "SELECT * WHERE Col5 CONTAINS'SP'";0)

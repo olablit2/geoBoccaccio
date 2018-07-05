@@ -1,2 +1,0 @@
-ID	CONTENT
-1	Luigi è nato a roma e vive a milano, nella regione del Franciacorta.
