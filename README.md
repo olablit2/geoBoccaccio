@@ -36,15 +36,19 @@ Preliminary steps
 	=query({IMPORTRANGE("https://docs.google.com/spreadsheets/d/1Qh7mGzfW2ow8RzOniqO_-60JST6pbT71dfzaz_GtV0k";"prova!A1:J15000")}; "SELECT * WHERE Col5 CONTAINS'SP'";0)
 ```
 * The given spreadsheets  yields for a list of items of PNs. Order the list alphabetically. Insert a manual column where the token is standardized and give the relevant coords:
+
 Item        | Std       | Long			| Lat         |
 ------------|-----------|---------------|-------------|
 Vinegia     | Venezia   | 45.4042008	| 12.1015609  |
+
 * Don’t delete PNs which are not strictly relevant to the actual recognition: they serve as  tools for tracing out the correctness rate or other info.
 * Give parallel spreadsheets for each partials which yields  a structured array of PNs in texts. When merged with the previous one, it will results for 3 columns of each term: the ones which have coords field are the locations
 * Add a manual field to the spreadsheet which explicits the actors of that location
+
 Item        | Std       | Long			| Lat         | Actor 		|
 ------------|-----------|---------------|-------------|-------------|
 Vinegia     | Venezia   | 45.4042008	| 12.1015609  | Buffalmacco	|
+
 * Plot locations in map
 * Use the frequency list for the whole day 
 
