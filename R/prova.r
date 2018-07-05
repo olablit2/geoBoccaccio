@@ -1,0 +1,13 @@
+install.packages("udpipe")
+vignette("udpipe-tryitout", package = "udpipe")
+vignette("udpipe-annotation", package = "udpipe")
+vignette("udpipe-train", package = "udpipe")
+vignette("udpipe-usecase-postagging-lemmatisation", package = "udpipe")
+vignette("udpipe-usecase-topicmodelling", package = "udpipe")
+library(udpipe)
+
+infile <- readPlain('./partials/02-07.txt')
+udmodel <- udpipe_download_model(language = "italian")
+udmodel <- udpipe_load_model(file = udmodel$file_model)
+x <- udpipe_annotate(udmodel, x = infile)
+cat(x$conllu, file = "prova.conllu")

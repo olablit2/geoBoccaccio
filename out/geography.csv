@@ -1,0 +1,1633 @@
+Item, Mentions, Type
+Madonna, 89, City
+Bruno, 86, City
+Al, 70, City
+Tito, 43, City
+Roma, 35, City
+Parigi, 34, City
+Bologna, 27, City
+Pavia, 26, City
+Gualtieri, 24, City
+Palermo, 20, City
+Donna, 20, City
+Papa, 18, City
+Questa, 16, City
+Zima, 15, City
+Allora, 14, City
+Siena, 11, City
+Amor, 10, City
+Magdalena, 10, City
+Guido, 10, City
+Perugia, 8, City
+Lipari, 8, City
+Alle, 8, City
+Alessandria, 8, City
+Ercolano, 8, City
+Italia, 7, City
+Salerno, 7, City
+Spina, 7, City
+Pistoia, 7, City
+Muse, 7, City
+Trapani, 7, City
+Bene, 6, City
+Rossiglione, 6, City
+Messina, 6, City
+Simone, 6, City
+Prato, 5, City
+Delle, 5, City
+Belle, 5, City
+Ischia, 5, City
+Fiesole, 5, City
+Giuliano, 4, City
+Pisa, 4, City
+Piazza, 4, City
+Cremona, 4, City
+Faenza, 4, City
+Cuba, 4, City
+Ravenna, 4, City
+San Giovanni, 4, City
+Ponte, 4, City
+Barletta, 4, City
+Oriente, 3, City
+Santa, 3, City
+Era, 3, City
+Male, 3, City
+Ferrara, 3, City
+Imola, 3, City
+Rialto, 3, City
+Porta, 3, City
+Valle, 3, City
+Santa Maria, 3, City
+Ottaviano, 3, City
+Stra, 3, City
+Venne, 2, City
+Bella, 2, City
+Verona, 2, City
+Ravello, 2, City
+Manfredi, 2, City
+Procida, 2, City
+Chios, 2, City
+Acri, 2, City
+Ancona, 2, City
+Gran, 2, City
+Pure, 2, City
+San Marco, 2, City
+Amalfi, 2, City
+Campo, 2, City
+Fiore, 2, City
+Loria, 2, City
+Vera, 2, City
+Isabella, 2, City
+Son, 2, City
+Usa, 2, City
+Elena, 2, City
+Adrian, 2, City
+Jerusalem, 2, City
+Catalina, 2, City
+Persia, 2, City
+Solo, 1, City
+Grimaldi, 1, City
+Trani, 1, City
+Benevento, 1, City
+Lerici, 1, City
+Alba, 1, City
+Fate, 1, City
+Vero, 1, City
+Lamporecchio, 1, City
+Fiera, 1, City
+Massa, 1, City
+Candia, 1, City
+San Gimignano, 1, City
+Brescia, 1, City
+San Paolo, 1, City
+Quel, 1, City
+Sparti, 1, City
+Fano, 1, City
+Medicina, 1, City
+Minerva, 1, City
+Lapa, 1, City
+San Michele, 1, City
+Certaldo, 1, City
+Seneca, 1, City
+San Giorgio, 1, City
+Santa Croce, 1, City
+Villamagna, 1, City
+Arezzo, 1, City
+Esse, 1, City
+Tura, 1, City
+Lieto, 1, City
+Nicola, 1, City
+Mala, 1, City
+Mino, 1, City
+Villa, 1, City
+Saliceto, 1, City
+Meta, 1, City
+Ama, 1, City
+Bitonto, 1, City
+Udine, 1, City
+Magna, 1, City
+Mico, 1, City
+Cefalù, 1, City
+Dal, 1, City
+Tolga, 1, City
+Guarda, 1, City
+Per, 2288, Region
+Calandrino, 2224, Region
+E, 1888, Region
+Disse, 1840, Region
+Dio, 1488, Region
+Madonna, 1424, Region
+Bruno, 1376, Region
+Pietro, 1216, Region
+Egli, 1200, Region
+Gisippo, 1136, Region
+Al, 1120, Region
+Currado, 832, Region
+Ricciardo, 832, Region
+Dioneo, 768, Region
+Tedaldo, 768, Region
+Gianni, 720, Region
+Firenze, 688, Region
+Alessandro, 688, Region
+Tito, 688, Region
+Torello, 656, Region
+Alla, 640, Region
+Quivi, 624, Region
+Nicostrato, 624, Region
+Buffalmacco, 624, Region
+Natan, 624, Region
+Ferondo, 592, Region
+Idio, 560, Region
+Roma, 560, Region
+Saladino, 560, Region
+Panfilo, 544, Region
+Filostrato, 544, Region
+Parigi, 544, Region
+Che, 528, Region
+Andreuccio, 528, Region
+La, 512, Region
+Sofronia, 512, Region
+Pampinea, 480, Region
+Filippo, 480, Region
+Bernabò, 480, Region
+Ora, 464, Region
+Ruggieri, 464, Region
+Salabaetto, 448, Region
+Giannotto, 432, Region
+Bologna, 432, Region
+Cimone, 432, Region
+Questo, 416, Region
+Francia, 416, Region
+Pavia, 416, Region
+Elissa, 400, Region
+Aveva, 400, Region
+Appresso, 400, Region
+Ma, 384, Region
+Cicilia, 384, Region
+Gualtieri, 384, Region
+Catella, 384, Region
+Gerbino, 384, Region
+Pirro, 384, Region
+Zeppa, 384, Region
+Lauretta, 368, Region
+Non, 368, Region
+Messer, 368, Region
+Puccio, 368, Region
+Nastagio, 368, Region
+Guiscardo, 368, Region
+Filomena, 352, Region
+Ella, 352, Region
+Cipri, 352, Region
+Masetto, 352, Region
+Poi, 336, Region
+Avvenne, 336, Region
+Alberto, 336, Region
+Le, 320, Region
+Palermo, 320, Region
+Giannetta, 320, Region
+Donna, 320, Region
+Ninetta, 320, Region
+Maso, 320, Region
+Messer Torello, 320, Region
+Emilia, 304, Region
+Così, 304, Region
+Essendo, 304, Region
+Signori, 304, Region
+Rustico, 304, Region
+Ghino, 304, Region
+Fiammetta, 288, Region
+Papa, 288, Region
+Perotto, 288, Region
+Gabriello, 288, Region
+Federigo, 288, Region
+Cisti, 288, Region
+Mitridanes, 288, Region
+Adunque, 272, Region
+Amore, 272, Region
+Riccardo, 272, Region
+Giacomino, 272, Region
+Egano, 272, Region
+Torel, 272, Region
+Domenedio, 256, Region
+Questa, 256, Region
+Costoro, 256, Region
+Laonde, 256, Region
+Napoli, 256, Region
+Beltramo, 256, Region
+Efigenia, 256, Region
+Lizio, 256, Region
+Geri, 256, Region
+Chichibio, 256, Region
+Neri, 256, Region
+Anichino, 256, Region
+Pinuccio, 256, Region
+Carlo, 240, Region
+Zima, 240, Region
+Tunisi, 240, Region
+Martuccio, 240, Region
+Cipolla, 240, Region
+Tofano, 240, Region
+Arriguccio, 240, Region
+Niccolosa, 240, Region
+Essi, 224, Region
+Queste, 224, Region
+Paradiso, 224, Region
+Iddio, 224, Region
+Il, 224, Region
+Costui, 224, Region
+Allora, 224, Region
+Baronci, 224, Region
+Nello, 224, Region
+Meuccio, 224, Region
+Biondello, 224, Region
+Ciacco, 224, Region
+Ansaldo, 224, Region
+Griselda, 224, Region
+Genova, 208, Region
+Chi, 208, Region
+Beritola, 208, Region
+Antigono, 208, Region
+Sicurano, 208, Region
+Lorenzo, 208, Region
+Caterina, 208, Region
+Giosefo, 208, Region
+Cristo, 192, Region
+Martellino, 192, Region
+Rinaldo, 192, Region
+Dove, 192, Region
+Giachetto, 192, Region
+Venuta, 192, Region
+Gabriotto, 192, Region
+Giannole, 192, Region
+Amerigo, 192, Region
+Tessa, 192, Region
+Belcolore, 192, Region
+Toscana, 176, Region
+Questi, 176, Region
+Quindi, 176, Region
+Giuffredi, 176, Region
+Stramba, 176, Region
+Ruberto, 176, Region
+Siena, 176, Region
+Disse Bruno, 176, Region
+Melisso, 176, Region
+Nella, 160, Region
+Colui, 160, Region
+NELLA, 160, Region
+SOTTO, 160, Region
+REGGIMENTO, 160, Region
+De, 160, Region
+Ultimamente, 160, Region
+Inghilterra, 160, Region
+Constanzio, 160, Region
+Rodi, 160, Region
+Creti, 160, Region
+Amor, 160, Region
+Magdalena, 160, Region
+Quando, 160, Region
+Tancredi, 160, Region
+Guido, 160, Region
+Mugnone, 160, Region
+Scannadio, 160, Region
+Adriano, 160, Region
+RAGIONA, 144, Region
+Dico, 144, Region
+Donne, 144, Region
+Venuto, 144, Region
+Dunque, 144, Region
+FINISCE, 144, Region
+INCOMINCIA, 144, Region
+SI, 144, Region
+Marato, 144, Region
+Io, 144, Region
+Pasquino, 144, Region
+Salamone, 144, Region
+Peronella, 144, Region
+Lusca, 144, Region
+Tingoccio, 144, Region
+Calandrin, 144, Region
+Disse Calandrino, 144, Region
+Tindaro, 128, Region
+Bergamino, 128, Region
+Marchese, 128, Region
+Landolfo, 128, Region
+Ponente, 128, Region
+Perugia, 128, Region
+Lipari, 128, Region
+Alle, 128, Region
+Alessandria, 128, Region
+Pericone, 128, Region
+Paganino, 128, Region
+Francesco, 128, Region
+Simona, 128, Region
+Dovete, 128, Region
+Ercolano, 128, Region
+Giotto, 128, Region
+Spinelloccio, 128, Region
+Della, 112, Region
+Mentre, 112, Region
+Già, 112, Region
+Costei, 112, Region
+Clignì, 112, Region
+Italia, 112, Region
+Domine, 112, Region
+Salerno, 112, Region
+Spina, 112, Region
+Garbo, 112, Region
+Erano, 112, Region
+Monaco, 112, Region
+Lombardia, 112, Region
+Pistoia, 112, Region
+Melano, 112, Region
+Inferno, 112, Region
+Muse, 112, Region
+Trapani, 112, Region
+Salvestra, 112, Region
+Giacomin, 112, Region
+Bernabuccio, 112, Region
+Teodoro, 112, Region
+Lidia, 112, Region
+Lisa, 112, Region
+Licisca, 96, Region
+Ser Ciappelletto, 96, Region
+Guiglielmo, 96, Region
+Giovani, 96, Region
+Valorose, 96, Region
+Carissime, 96, Region
+Stecchi, 96, Region
+Bene, 96, Region
+Né, 96, Region
+Osbech, 96, Region
+Zinevra, 96, Region
+Li, 96, Region
+Purgatoro, 96, Region
+Rossiglione, 96, Region
+Lisetta, 96, Region
+Ughetto, 96, Region
+Messina, 96, Region
+Finita, 96, Region
+Guiglielmo Guardastagno, 96, Region
+Lisimaco, 96, Region
+Oretta, 96, Region
+Antonio, 96, Region
+Scalza, 96, Region
+Fresco, 96, Region
+Bernardo, 96, Region
+Anichin, 96, Region
+Deh, 96, Region
+Bentivegna, 96, Region
+Simone, 96, Region
+Talano, 96, Region
+Compar Pietro, 96, Region
+Cremete, 96, Region
+Niuna, 80, Region
+Parmeno, 80, Region
+Prato, 80, Region
+Delle, 80, Region
+Perché, 80, Region
+Musciatto, 80, Region
+Chiesa, 80, Region
+Lunigiana, 80, Region
+Nondimeno, 80, Region
+Scala, 80, Region
+Quale, 80, Region
+Belle, 80, Region
+Londra, 80, Region
+Essa, 80, Region
+Scozia, 80, Region
+La Lauretta, 80, Region
+Ben, 80, Region
+Piero, 80, Region
+Sardigna, 80, Region
+Ciuriaci, 80, Region
+Quanto, 80, Region
+Se, 80, Region
+Violante, 80, Region
+Ginevra, 80, Region
+Chinzica, 80, Region
+Paganin, 80, Region
+Nuto, 80, Region
+Figliuola, 80, Region
+Ermellina, 80, Region
+Levante, 80, Region
+Quegli, 80, Region
+Alibech, 80, Region
+Frate Alberto, 80, Region
+Fatto, 80, Region
+Girolamo, 80, Region
+Ormisda, 80, Region
+Ischia, 80, Region
+Giovanna, 80, Region
+Noi, 80, Region
+Corso, 80, Region
+Fiesole, 80, Region
+Leonetto, 80, Region
+Lambertuccio, 80, Region
+Lodovico, 80, Region
+Ciutazza, 80, Region
+Gilberto, 80, Region
+Saladin, 80, Region
+Nelle, 64, Region
+Maravigliosa, 64, Region
+Dalle, 64, Region
+Santa Maria Novella, 64, Region
+Ohimè, 64, Region
+Gnaffé, 64, Region
+Certo, 64, Region
+Avendo, 64, Region
+Maestro, 64, Region
+Arrigo, 64, Region
+Sia, 64, Region
+Castel Guiglielmo, 64, Region
+Giuliano, 64, Region
+Santo Padre, 64, Region
+Lodato, 64, Region
+Madama Beritola, 64, Region
+Maiolica, 64, Region
+Chiarenza, 64, Region
+Smirre, 64, Region
+Basano, 64, Region
+Madama, 64, Region
+Pisa, 64, Region
+Tempo, 64, Region
+Tedaldo Elisei, 64, Region
+Come, 64, Region
+Barberia, 64, Region
+Neerbale, 64, Region
+Signor, 64, Region
+Ghismunda, 64, Region
+Assai, 64, Region
+Piazza, 64, Region
+Vinegia, 64, Region
+Maremma, 64, Region
+Folco, 64, Region
+Piacevoli, 64, Region
+Granata, 64, Region
+Lagina, 64, Region
+Guccio Imbratta, 64, Region
+Ruggier, 64, Region
+Cimon, 64, Region
+Pasimunda, 64, Region
+Susa, 64, Region
+Carapresa, 64, Region
+Romagna, 64, Region
+Cremona, 64, Region
+Faenza, 64, Region
+Crivello, 64, Region
+Cuba, 64, Region
+Laiazzo, 64, Region
+Ravenna, 64, Region
+Geri Spina, 64, Region
+Betto, 64, Region
+San Giovanni, 64, Region
+Saggio, 64, Region
+Gianni Lotteringhi, 64, Region
+Giannello, 64, Region
+Due, 64, Region
+Gulfardo, 64, Region
+Brun, 64, Region
+Disse Buffalmacco, 64, Region
+Iancofiore, 64, Region
+Ponte, 64, Region
+Barletta, 64, Region
+Spagna, 64, Region
+Messer Ruggieri, 64, Region
+Modona, 64, Region
+Niccoluccio, 64, Region
+Saranno, 64, Region
+Sanluzzo, 64, Region
+Giannucolo, 64, Region
+Quantunque, 48, Region
+Oriente, 48, Region
+Altri, 48, Region
+Molti, 48, Region
+Alcuni, 48, Region
+Veramente, 48, Region
+Ne, 48, Region
+Lui, 48, Region
+Bonifazio, 48, Region
+Ciappelletto, 48, Region
+Salvatore, 48, Region
+Signore, 48, Region
+Abraam, 48, Region
+Amorose, 48, Region
+Santa, 48, Region
+Ciascuno, 48, Region
+Guiglielmo Borsiere, 48, Region
+Ermino, 48, Region
+Messer Guiglielmo, 48, Region
+Restava, 48, Region
+Omai, 48, Region
+Era, 48, Region
+Trivigi, 48, Region
+Male, 48, Region
+Ferrara, 48, Region
+Tosto, 48, Region
+Dopo, 48, Region
+Anzi, 48, Region
+Furono, 48, Region
+Camminando, 48, Region
+Tralle, 48, Region
+Esso, 48, Region
+Per Dio, 48, Region
+Arrighetto Capece, 48, Region
+Scacciato, 48, Region
+Puglia, 48, Region
+Cavriuola, 48, Region
+Niccolò, 48, Region
+Gian, 48, Region
+Quello, 48, Region
+Elle, 48, Region
+Babilonia, 48, Region
+Famagosta, 48, Region
+Sicuran, 48, Region
+Quante, 48, Region
+Bellissime, 48, Region
+Agilulf, 48, Region
+Sono, 48, Region
+Coloro, 48, Region
+San Brancazio, 48, Region
+Ricciardo Minutolo, 48, Region
+Faziuolo, 48, Region
+Disse Ferondo, 48, Region
+Giletta, 48, Region
+Alli, 48, Region
+Graziose, 48, Region
+Hai, 48, Region
+Capsa, 48, Region
+Parnaso, 48, Region
+Poco, 48, Region
+Imola, 48, Region
+Rialto, 48, Region
+Ispagna, 48, Region
+Voi, 48, Region
+Del, 48, Region
+Malagevole, 48, Region
+Cassandrea, 48, Region
+Aristippo, 48, Region
+Gostanza, 48, Region
+Martuccio Gomito, 48, Region
+Alagna, 48, Region
+Liello, 48, Region
+Giacomina, 48, Region
+Minghino, 48, Region
+Fratel, 48, Region
+Fineo, 48, Region
+Frate, 48, Region
+Compagni, 48, Region
+Porta, 48, Region
+Nuta, 48, Region
+Valle, 48, Region
+Malvagia, 48, Region
+Messer Lambertuccio, 48, Region
+Tanto, 48, Region
+Mugnon, 48, Region
+Palagio, 48, Region
+Matteuzzo, 48, Region
+Ribi, 48, Region
+Santa Maria, 48, Region
+Tu, 48, Region
+Buona, 48, Region
+Canigiano, 48, Region
+Madonna Francesca, 48, Region
+Cecco, 48, Region
+Neifile, 48, Region
+Angiulieri, 48, Region
+Sozio, 48, Region
+Rispose Calandrino, 48, Region
+Biondel, 48, Region
+Messer Filippo, 48, Region
+Tresanti, 48, Region
+Niccoluccio Caccianimico, 48, Region
+Dianora, 48, Region
+Giliberto, 48, Region
+Minuccio, 48, Region
+Tito Quinzio Fulvo, 48, Region
+Ottaviano, 48, Region
+Stra, 48, Region
+Panago, 48, Region
+COMINCIA, 32, Region
+CHIAMATO, 32, Region
+COGNOMINATO, 32, Region
+Figliuolo, 32, Region
+Quanti, 32, Region
+Galieno, 32, Region
+Ecco, 32, Region
+Cepparello, 32, Region
+Rispose, 32, Region
+Civignì, 32, Region
+Mostrato, 32, Region
+Babillonia, 32, Region
+Monferrato, 32, Region
+Venne, 32, Region
+Dama, 32, Region
+Bella, 32, Region
+Verona, 32, Region
+Primasso, 32, Region
+Messere Ermino, 32, Region
+Guascogna, 32, Region
+Terra Santa, 32, Region
+Degli, 32, Region
+Tebaldo, 32, Region
+Lamberti, 32, Region
+Agolanti, 32, Region
+Lamberto, 32, Region
+Agolante, 32, Region
+Santità, 32, Region
+Landolfo Rufolo, 32, Region
+Gurfo, 32, Region
+Ravello, 32, Region
+Laonde Andreuccio, 32, Region
+Gravi, 32, Region
+Manfredi, 32, Region
+Ponzo, 32, Region
+Guasparrin Doria, 32, Region
+Procida, 32, Region
+Stando, 32, Region
+Raona, 32, Region
+Messer Guasparrin, 32, Region
+Alatiel, 32, Region
+Pericon, 32, Region
+Perdicone, 32, Region
+Romania, 32, Region
+Atene, 32, Region
+Chios, 32, Region
+Antioco, 32, Region
+Alessandra, 32, Region
+Ierusalem, 32, Region
+Calese, 32, Region
+Gales, 32, Region
+Giachetto Lamiens, 32, Region
+Standosi, 32, Region
+Bernabò Lomellin, 32, Region
+Piagenza, 32, Region
+Disse Ambruogiuolo, 32, Region
+Rimasa, 32, Region
+Acri, 32, Region
+Ambruogiuolo, 32, Region
+Fatta, 32, Region
+Monte Nero, 32, Region
+Messer Riccardo, 32, Region
+Sopra, 32, Region
+Pon, 32, Region
+Quella, 32, Region
+Rinieri, 32, Region
+Isabetta, 32, Region
+Frate Puccio, 32, Region
+Carissima, 32, Region
+Filippello, 32, Region
+Ancona, 32, Region
+Aldobrandin Palermini, 32, Region
+Ogni, 32, Region
+Amico, 32, Region
+Aldobrandino, 32, Region
+Purgatorio, 32, Region
+Montagna, 32, Region
+Lodata, 32, Region
+Nerbona, 32, Region
+Gerardo, 32, Region
+Damigella, 32, Region
+Gran, 32, Region
+Tebaida, 32, Region
+Disse Rustico, 32, Region
+Andiamo, 32, Region
+Guido Cavalcanti, 32, Region
+Vergine Maria, 32, Region
+Pure, 32, Region
+Comare, 32, Region
+San Marco, 32, Region
+Provenza, 32, Region
+Bertella, 32, Region
+La Magdalena, 32, Region
+Lisabetta, 32, Region
+Negro, 32, Region
+Già Dio, 32, Region
+San Gallo, 32, Region
+Guiglielmo Rossiglione, 32, Region
+Guardastagno, 32, Region
+Mazzeo, 32, Region
+Amalfi, 32, Region
+Fa, 32, Region
+Molte, 32, Region
+Galeso, 32, Region
+Cipseo, 32, Region
+Ciascun, 32, Region
+La Gostanza, 32, Region
+Pietro Boccamazza, 32, Region
+Niuno, 32, Region
+Agnolella, 32, Region
+Gigliuozzo Saullo, 32, Region
+Campo, 32, Region
+Fiore, 32, Region
+Valbona, 32, Region
+Messer Lizio, 32, Region
+Via, 32, Region
+Agnesa, 32, Region
+Loria, 32, Region
+Marin Bolgaro, 32, Region
+Calavria, 32, Region
+Partissi, 32, Region
+Onesti, 32, Region
+Chiassi, 32, Region
+Amabili, 32, Region
+Alberighi, 32, Region
+Sciocca, 32, Region
+Fratelli, 32, Region
+Vinciolo, 32, Region
+Ché, 32, Region
+Di, 32, Region
+Molto, 32, Region
+Messer Geri, 32, Region
+Pulci, 32, Region
+Nonna, 32, Region
+Currado Gianfigliazzi, 32, Region
+Peretola, 32, Region
+Brunetta, 32, Region
+Aspettati, 32, Region
+Rabatta, 32, Region
+Mugello, 32, Region
+Uberti, 32, Region
+Tra, 32, Region
+Filippa, 32, Region
+Vaghe, 32, Region
+Cesca, 32, Region
+Santa Reparata, 32, Region
+Frate Cipolla, 32, Region
+Guccio Balena, 32, Region
+Guccio Porco, 32, Region
+Michele, 32, Region
+Monte Morello, 32, Region
+Vera, 32, Region
+Camerata, 32, Region
+Disse Gianni, 32, Region
+Fantasima, 32, Region
+Marito, 32, Region
+Frate Rinaldo, 32, Region
+Va, 32, Region
+Natale, 32, Region
+Isabella, 32, Region
+Lionetto, 32, Region
+Sismonda, 32, Region
+Son, 32, Region
+Usa, 32, Region
+Poscia, 32, Region
+Domandò, 32, Region
+Sarà, 32, Region
+Varlungo, 32, Region
+La Belcolore, 32, Region
+Bengodi, 32, Region
+Rispose Maso, 32, Region
+Montisci, 32, Region
+San, 32, Region
+Dilettose, 32, Region
+Aveva Calandrino, 32, Region
+Elena, 32, Region
+Arno, 32, Region
+Maestro Simone, 32, Region
+Ordinato, 32, Region
+Vedete, 32, Region
+Alessandro Chiarmontesi, 32, Region
+Bonconvento, 32, Region
+Marca, 32, Region
+Corsignano, 32, Region
+Adrian, 32, Region
+Margherita, 32, Region
+Disse Ciacco, 32, Region
+Salomone, 32, Region
+Jerusalem, 32, Region
+Gemmata, 32, Region
+Anfonso, 32, Region
+Tacco, 32, Region
+Catalina, 32, Region
+Persia, 32, Region
+Ciascuna, 32, Region
+Isotta, 32, Region
+Niun, 32, Region
+Marco Varrone, 32, Region
+Fulvia, 32, Region
+San Piero, 32, Region
+Ciel, 32, Region
+Dignes, 32, Region
+Amici, 32, Region
+Gualtier, 32, Region
+Allora Gualtieri, 32, Region
+Giannucole, 32, Region
+Tuttavia, 32, Region
+NEL, 16, Region
+CONTENGONO, 16, Region
+CENTO, 16, Region
+GIOVANI, 16, Region
+PROEMIO Umana, 16, Region
+PER, 16, Region
+DOVERSI, 16, Region
+CHE, 16, Region
+RAGUNARE, 16, Region
+RAGIONARE, 16, Region
+Fiorenza, 16, Region
+Ipocrate, 16, Region
+Ricordivi, 16, Region
+Acciò, 16, Region
+Sirisco, 16, Region
+Misia, 16, Region
+Chimera, 16, Region
+Stratilia, 16, Region
+Licenziata, 16, Region
+Qui, 16, Region
+Ragionasi, 16, Region
+Musciatto Franzesi, 16, Region
+Carlo Senzaterra, 16, Region
+Imbolato, 16, Region
+Gulosissimo, 16, Region
+Giuocatore, 16, Region
+Borgogna, 16, Region
+Iscrittura, 16, Region
+Creatore, 16, Region
+Ordine, 16, Region
+Madre, 16, Region
+Spirito, 16, Region
+Quando Giannotto, 16, Region
+Pensa, 16, Region
+Padre, 16, Region
+Parmene, 16, Region
+Nostra Dama, 16, Region
+Melchisedech, 16, Region
+Giannoto, 16, Region
+Civignì Abraam, 16, Region
+Parendo, 16, Region
+Confonde, 16, Region
+Giovanni Barbadoro, 16, Region
+Epicuro, 16, Region
+Giovanni Boccadoro, 16, Region
+Udistù, 16, Region
+Udinne, 16, Region
+Mosse, 16, Region
+Solo, 16, Region
+Cane, 16, Region
+Fattasi, 16, Region
+Avrebbe, 16, Region
+Fermamente, 16, Region
+Messer Cane, 16, Region
+Ermino de, 16, Region
+Sedeva, 16, Region
+Filostrato Lauretta, 16, Region
+Grimaldi, 16, Region
+Ermino Avarizia, 16, Region
+Fateci, 16, Region
+Cortesia, 16, Region
+Gottifré, 16, Region
+Buglione, 16, Region
+Maestro Alberto, 16, Region
+Malgherida, 16, Region
+Dato, 16, Region
+Domattina, 16, Region
+DA, 16, Region
+SIA, 16, Region
+Spesse, 16, Region
+Rispose Martellino, 16, Region
+Martellin, 16, Region
+Sandro Agolanti, 16, Region
+Sandro, 16, Region
+Onde, 16, Region
+Giulian, 16, Region
+Bruggia, 16, Region
+Nostro Signore, 16, Region
+Maravigliossi Alessandro, 16, Region
+Cornovaglia, 16, Region
+Credesi, 16, Region
+Costantinopoli, 16, Region
+Cifalonia, 16, Region
+Brandizio, 16, Region
+Trani, 16, Region
+Mercato, 16, Region
+Malpertugio, 16, Region
+Ecco Andreuccio, 16, Region
+Gergenti, 16, Region
+Ritrovandosi, 16, Region
+Ruga Catalana, 16, Region
+Filippo Minutolo, 16, Region
+Come Andreuccio, 16, Region
+Verso, 16, Region
+Avevan, 16, Region
+Beritola Caracciola, 16, Region
+Benevento, 16, Region
+Currado de, 16, Region
+Malespini, 16, Region
+Magra, 16, Region
+Stettero, 16, Region
+Currado Malaspina, 16, Region
+Grignano, 16, Region
+Capece, 16, Region
+Amai, 16, Region
+Allora Currado, 16, Region
+Lerici, 16, Region
+Petro, 16, Region
+Guasparrin, 16, Region
+Appreso, 16, Region
+Malagevolmente, 16, Region
+Visalgo, 16, Region
+Era Pericone, 16, Region
+Venere, 16, Region
+Aveva Pericone, 16, Region
+Morea, 16, Region
+Aveano, 16, Region
+Manovello, 16, Region
+Egina, 16, Region
+Erminia, 16, Region
+Aguamorta, 16, Region
+Valcava, 16, Region
+Saliti, 16, Region
+Solamente, 16, Region
+Sospirato, 16, Region
+Ampissimo, 16, Region
+Cominciò, 16, Region
+Aiuto, 16, Region
+Corsesi, 16, Region
+Luigi, 16, Region
+Fugli, 16, Region
+Irlanda, 16, Region
+Sapete, 16, Region
+Caccia, 16, Region
+La Giannetta, 16, Region
+Erasi, 16, Region
+Ruem, 16, Region
+Adunati, 16, Region
+Avendo Elissa, 16, Region
+Servar, 16, Region
+Suolsi, 16, Region
+Vegnente, 16, Region
+Confessò Bernabò, 16, Region
+Dicoti, 16, Region
+Quando Bernabò, 16, Region
+Giunto, 16, Region
+Alba, 16, Region
+Finale, 16, Region
+Benarbò, 16, Region
+Maravigliavasi, 16, Region
+Lotto Gualandi, 16, Region
+Bartolomea, 16, Region
+Mare, 16, Region
+Imaginossi, 16, Region
+Andatisene, 16, Region
+Sommi, 16, Region
+Anche, 16, Region
+Andate, 16, Region
+Vergine, 16, Region
+DI, 16, Region
+DISIDERATA, 16, Region
+Andando, 16, Region
+Volentieri, 16, Region
+Teudelinga, 16, Region
+Risposele, 16, Region
+Sotto, 16, Region
+Taceva, 16, Region
+Hommi, 16, Region
+Credo, 16, Region
+Ninferno, 16, Region
+Dom Felice, 16, Region
+Tornò, 16, Region
+Dottori, 16, Region
+Trinità, 16, Region
+Rimasi, 16, Region
+Giovanni Gualberto, 16, Region
+Stettesi, 16, Region
+Francesco Vergellesi, 16, Region
+Aveva Panfilo, 16, Region
+Credonsi, 16, Region
+Messer Francesco, 16, Region
+Spero, 16, Region
+Tuttafiata, 16, Region
+Soltanto, 16, Region
+Filippello Sighinolfi, 16, Region
+Niente, 16, Region
+Filippel Sighinolfo, 16, Region
+Amando, 16, Region
+Ricciardo Miniatolo, 16, Region
+Tirati, 16, Region
+Oimè, 16, Region
+Credesti, 16, Region
+Par Dio, 16, Region
+Elisei, 16, Region
+Aldobrandino Palermini, 16, Region
+San Lodeccio, 16, Region
+Maravigliossi, 16, Region
+Ditemi, 16, Region
+Furon, 16, Region
+Vogliono, 16, Region
+Incominciò Cristo, 16, Region
+Dalla, 16, Region
+Parve, 16, Region
+Signoria, 16, Region
+Domandati, 16, Region
+Passavano, 16, Region
+Pontriemoli, 16, Region
+Dirò, 16, Region
+Fate, 16, Region
+Veglio, 16, Region
+Benedetto, 16, Region
+Figliuoli, 16, Region
+Era Ferondo, 16, Region
+Ragnolo Braghiello, 16, Region
+Benedetto Ferondi, 16, Region
+Isnardo, 16, Region
+Beltram, 16, Region
+Disse Beltramo, 16, Region
+Vero, 16, Region
+Seguì, 16, Region
+Disse Alibech, 16, Region
+Mille, 16, Region
+Odi, 16, Region
+Lamporecchio, 16, Region
+Vergiù, 16, Region
+Femmisi, 16, Region
+Filippo Balducci, 16, Region
+Monte Asinaio, 16, Region
+Dicono, 16, Region
+Riprenderannomi, 16, Region
+Dante Alighieri, 16, Region
+Cino, 16, Region
+Aiutaronmi, 16, Region
+Cacciata, 16, Region
+Fiera, 16, Region
+Comandò, 16, Region
+Esser, 16, Region
+Raguarda, 16, Region
+Dirai, 16, Region
+Usano, 16, Region
+Berto, 16, Region
+Massa, 16, Region
+Ascesi, 16, Region
+Quirino, 16, Region
+Fiandra, 16, Region
+Troppo, 16, Region
+Marsilia, 16, Region
+Della Ninetta, 16, Region
+Candia, 16, Region
+Gerbin, 16, Region
+Similmente, 16, Region
+Guglielmo, 16, Region
+Togli, 16, Region
+Ustica, 16, Region
+San Gimignano, 16, Region
+Elisabetta, 16, Region
+Brescia, 16, Region
+Ponte Carraro, 16, Region
+Andreuola, 16, Region
+Messer Negro, 16, Region
+Eranvi, 16, Region
+Care, 16, Region
+Ricevutolo, 16, Region
+La Simona, 16, Region
+Puccino, 16, Region
+Fattola, 16, Region
+Mostra, 16, Region
+San Paolo, 16, Region
+Leonardo Sighieri, 16, Region
+Andato, 16, Region
+La Salvestra, 16, Region
+Coricossi, 16, Region
+Sparsesi, 16, Region
+Messer Guglielmo Rossiglione, 16, Region
+Èmmisi, 16, Region
+Piacque, 16, Region
+Sarebbe, 16, Region
+La Fiammetta, 16, Region
+Lagrimando, 16, Region
+Venga, 16, Region
+Dallami, 16, Region
+Ballata, 16, Region
+Dimostrarono, 16, Region
+ALCUNO, 16, Region
+DOPO, 16, Region
+FELICEMENTE, 16, Region
+Eugenia, 16, Region
+Andatosene, 16, Region
+Era Cimone, 16, Region
+Gli, 16, Region
+Quel, 16, Region
+Quanto Cimone, 16, Region
+Dolevansi, 16, Region
+Aveva Pasimunda, 16, Region
+Martuccio Comito, 16, Region
+Dimorando, 16, Region
+Meriabdela, 16, Region
+Corse, 16, Region
+Quivi Martuccio, 16, Region
+Gigliuozzo, 16, Region
+Andò, 16, Region
+Giovane, 16, Region
+Vogliantelo, 16, Region
+Sparti, 16, Region
+Orsini, 16, Region
+Ricciardo Manardi, 16, Region
+Tacendosi Elissa, 16, Region
+Brettinoro, 16, Region
+Volesse Idio, 16, Region
+Ora Idio, 16, Region
+Faren, 16, Region
+Quando Ricciardo, 16, Region
+Partiti, 16, Region
+Giannol, 16, Region
+Mingole, 16, Region
+Sicuramente, 16, Region
+Fano, 16, Region
+Guidotto, 16, Region
+Severino, 16, Region
+Aveva Giacomino, 16, Region
+Medicina, 16, Region
+Disse Bernabuccio, 16, Region
+Saputo, 16, Region
+Restituta, 16, Region
+Minerva, 16, Region
+Là, 16, Region
+Trovatala, 16, Region
+Partito, 16, Region
+Domandollo, 16, Region
+Conosci, 16, Region
+Amerigo Abate, 16, Region
+Era Pietro, 16, Region
+Messer Currado, 16, Region
+Messer Amerigo, 16, Region
+Paolo Traversaro, 16, Region
+Anastagi, 16, Region
+Traversari, 16, Region
+Paolo Traversari, 16, Region
+Coppo, 16, Region
+Borghese Domenichi, 16, Region
+Filippo Alberighi, 16, Region
+Campi, 16, Region
+Verdiana, 16, Region
+Santi Padri, 16, Region
+Rimase, 16, Region
+Udendo, 16, Region
+Monna Aldruda, 16, Region
+Disse Dioneo, 16, Region
+Lapa, 16, Region
+Piacerebbevi Esci, 16, Region
+Monna Simona, 16, Region
+TENTATO, 16, Region
+O CON, 16, Region
+AVVEDIMENTO, 16, Region
+Troilo, 16, Region
+Criseida, 16, Region
+Vedi, 16, Region
+Sicofante, 16, Region
+Madonna Oretta, 16, Region
+Santa Maria Ughi, 16, Region
+Chente, 16, Region
+Impose, 16, Region
+Rispose Cisti, 16, Region
+Monna Nonna de, 16, Region
+Quando Pampinea, 16, Region
+Ratta, 16, Region
+Nonna de, 16, Region
+Alesso Rinucci, 16, Region
+Alla Nonna, 16, Region
+Tacevasi, 16, Region
+Finite, 16, Region
+Messer Forese, 16, Region
+Come Neifile, 16, Region
+Avevano, 16, Region
+Forese, 16, Region
+Pruova Michele Scalza, 16, Region
+Ridevano, 16, Region
+Michele Scalza, 16, Region
+Santa Maria Maggiore, 16, Region
+Neri Vannini, 16, Region
+Fiorentino, 16, Region
+Madonna Filippa, 16, Region
+Rinaldo de, 16, Region
+Lazzarino de, 16, Region
+Rattemperatosi, 16, Region
+Lazzarino, 16, Region
+Eran, 16, Region
+Celatico, 16, Region
+Betto Brunelleschi, 16, Region
+Cavalcante, 16, Region
+Cavalcanti, 16, Region
+San Michele, 16, Region
+Adimari, 16, Region
+Vezzose, 16, Region
+Certaldo, 16, Region
+Valdelsa, 16, Region
+Tulio, 16, Region
+Nazarette, 16, Region
+Bragoniera, 16, Region
+Biagio Pizzini, 16, Region
+Biagio, 16, Region
+Giovanni, 16, Region
+Lippo Topo, 16, Region
+Aristotile, 16, Region
+Seneca, 16, Region
+Siri, 16, Region
+Ciastiglione, 16, Region
+Trovarono, 16, Region
+Porcellana, 16, Region
+Borgo de, 16, Region
+Greci, 16, Region
+Baldacca, 16, Region
+Parione, 16, Region
+Braccio, 16, Region
+San Giorgio, 16, Region
+Truffia, 16, Region
+Buffia, 16, Region
+Menzogna, 16, Region
+Bachi, 16, Region
+India Pastinaca, 16, Region
+Nonmiblasmete Sevoipiace, 16, Region
+Spirito Santo, 16, Region
+Morte, 16, Region
+Santa Croce, 16, Region
+Villamagna, 16, Region
+Bonsi, 16, Region
+Patriarca, 16, Region
+"unaltra", 16, Region
+Dentro, 16, Region
+Quelle, 16, Region
+Oggi, 16, Region
+LE, 16, Region
+SALVAMENTO, 16, Region
+SUOI, 16, Region
+SENZA, 16, Region
+Lucifero, 16, Region
+Alesso, 16, Region
+Matelda, 16, Region
+Cuculia, 16, Region
+Neri Pegolotti, 16, Region
+Tocco, 16, Region
+Patre, 16, Region
+Spirito Sancto, 16, Region
+Sputa, 16, Region
+Avorio, 16, Region
+Giannello Scrignario, 16, Region
+Giannel, 16, Region
+Galeone, 16, Region
+Eccomi, 16, Region
+Disse Giannello, 16, Region
+Vedine, 16, Region
+Partia, 16, Region
+Adivenne, 16, Region
+Domenico, 16, Region
+Madonna Agnesa, 16, Region
+Tenete, 16, Region
+Ambruogio, 16, Region
+Ambmogio, 16, Region
+Arezzo, 16, Region
+Ghita, 16, Region
+Posto, 16, Region
+Esse, 16, Region
+Arimino, 16, Region
+Credi, 16, Region
+Madonna Isabella, 16, Region
+Maravigliosamente, 16, Region
+Esci, 16, Region
+Galluzzi, 16, Region
+Postosi, 16, Region
+Venduti, 16, Region
+Quando Anichino, 16, Region
+Stranamente, 16, Region
+Dite, 16, Region
+Arriguccio Berlinghieri, 16, Region
+Battutala, 16, Region
+Pervenuti, 16, Region
+Fratei, 16, Region
+Col, 16, Region
+Guidi, 16, Region
+Avete, 16, Region
+Argo, 16, Region
+Teneva, 16, Region
+Speri, 16, Region
+Trattiamo, 16, Region
+Ucciso, 16, Region
+Disse Nicostrato, 16, Region
+Fattisi, 16, Region
+Disse Pirro, 16, Region
+Come Nicostrato, 16, Region
+Manifestissima, 16, Region
+Tingoccio Mini, 16, Region
+Tura, 16, Region
+Porta Salaia, 16, Region
+Avendosi, 16, Region
+Ambruogio Anselmini, 16, Region
+Camporeggi, 16, Region
+Mita, 16, Region
+Alquanto, 16, Region
+Perdute, 16, Region
+Zefiro, 16, Region
+Levaronsi, 16, Region
+Palemone, 16, Region
+Estimar, 16, Region
+UOMO, 16, Region
+DONNA, 16, Region
+Chiesetta, 16, Region
+Avvegna, 16, Region
+Melan, 16, Region
+Ambruogia, 16, Region
+Guasparuolo, 16, Region
+Tornato Guasparuolo, 16, Region
+Guasparruolo, 16, Region
+Mazzo, 16, Region
+Kyrie, 16, Region
+Sanctus, 16, Region
+Bonaccorri, 16, Region
+Ginestreto, 16, Region
+Naldino, 16, Region
+Biliuzza, 16, Region
+Lotto, 16, Region
+Buglietto, 16, Region
+Binguccio, 16, Region
+Poggio, 16, Region
+Nuto Buglietti, 16, Region
+Belcolor, 16, Region
+Berlinzone, 16, Region
+Abruzzi, 16, Region
+Settignano, 16, Region
+Allora Calandrin, 16, Region
+Buffailmacco, 16, Region
+Diessi, 16, Region
+Partito Calandrino, 16, Region
+Sappi, 16, Region
+Lieto, 16, Region
+Vedendo, 16, Region
+Andianne, 16, Region
+Canto, 16, Region
+Macina, 16, Region
+Entrossene, 16, Region
+Venuta Elissa, 16, Region
+Piccarda, 16, Region
+Sinagaglia, 16, Region
+Ciuta, 16, Region
+Entrato, 16, Region
+Volle, 16, Region
+Niccola, 16, Region
+San Lepidio, 16, Region
+"vandò", 16, Region
+Nicola, 16, Region
+Verzaia, 16, Region
+Chi Calandrino, 16, Region
+Videro, 16, Region
+Vendilo, 16, Region
+Come Brun, 16, Region
+Maraviglia, 16, Region
+Rispose Bruno, 16, Region
+Ragunata, 16, Region
+Mala, 16, Region
+India, 16, Region
+Valdarno, 16, Region
+Bastiti, 16, Region
+Madonna Elena, 16, Region
+Chiamalo, 16, Region
+Parte, 16, Region
+Benché, 16, Region
+Vedeva, 16, Region
+Mino, 16, Region
+Camollia, 16, Region
+Partitosi, 16, Region
+Villa, 16, Region
+Cocomero, 16, Region
+Legnaia, 16, Region
+Michele Scotto, 16, Region
+Co, 16, Region
+Norrueca, 16, Region
+Narsia, 16, Region
+Avendoselo, 16, Region
+Quaresima, 16, Region
+Diceva, 16, Region
+Porcograsso, 16, Region
+Vannaccena, 16, Region
+Ipocrasso, 16, Region
+Avicena, 16, Region
+Vallecchio, 16, Region
+Saliceto, 16, Region
+Bergamina, 16, Region
+Pasignano, 16, Region
+Civillari, 16, Region
+Pinca, 16, Region
+Laterino, 16, Region
+Tamagnin, 16, Region
+Meta, 16, Region
+Manico, 16, Region
+Scopa, 16, Region
+Squacchera, 16, Region
+Vedrete, 16, Region
+Partitisi, 16, Region
+Allora Buffalmacco, 16, Region
+Soleva, 16, Region
+Cignano, 16, Region
+Tornata, 16, Region
+Annovera, 16, Region
+Conobbe Salabaetto, 16, Region
+Come Dioneo, 16, Region
+Pietro Canigiano, 16, Region
+Comendò, 16, Region
+Rinuccio Palermini, 16, Region
+Francesca de, 16, Region
+Lazzari, 16, Region
+Tutti, 16, Region
+Rinuccio Alessandro, 16, Region
+Francesca, 16, Region
+Sapere, 16, Region
+Usimbalda, 16, Region
+Buondì, 16, Region
+Disse Nello, 16, Region
+Mercato Vecchio, 16, Region
+Simon, 16, Region
+Come Calandrino, 16, Region
+Angiolieri, 16, Region
+Torrenieri, 16, Region
+Pigliatel, 16, Region
+Fortarrigo, 16, Region
+Niccolò Cornacchini, 16, Region
+Camaldoli, 16, Region
+Parti, 16, Region
+Maestri, 16, Region
+Monna Tessa, 16, Region
+Laudevoli, 16, Region
+Ismontati, 16, Region
+Altra, 16, Region
+Universalmente, 16, Region
+Vieri de, 16, Region
+Cerchi, 16, Region
+Corso Donati, 16, Region
+Rispose Ciacco, 16, Region
+Postisi, 16, Region
+Filippo Argenti, 16, Region
+Mossosi, 16, Region
+Cavicciuli, 16, Region
+Partitosi Biondello, 16, Region
+Avendo Melisso, 16, Region
+Camminarono, 16, Region
+Antiocia, 16, Region
+Giosefo Melisso, 16, Region
+Maravigliossi Melisso, 16, Region
+Doman, 16, Region
+Ama, 16, Region
+Salamon, 16, Region
+Donno Gianni, 16, Region
+Leggiadre, 16, Region
+Dirovvi, 16, Region
+Barolo, 16, Region
+Zita Carapresa, 16, Region
+Comar Gemmata, 16, Region
+Bitonto, 16, Region
+Innamorate, 16, Region
+MAGNIFICAMENTE, 16, Region
+FATTI, 16, Region
+Ancora, 16, Region
+Grandissima, 16, Region
+Dironne, 16, Region
+Figiovanni, 16, Region
+Cavalcando, 16, Region
+Menollo, 16, Region
+Messer Ruggeri, 16, Region
+Dilicate, 16, Region
+Santafiore, 16, Region
+Radicofani, 16, Region
+Corniglia, 16, Region
+Menò, 16, Region
+Maladetta, 16, Region
+Spedale, 16, Region
+Simil, 16, Region
+Nobili, 16, Region
+Certissima, 16, Region
+Cattaio, 16, Region
+Ismontato, 16, Region
+Quivi Natan, 16, Region
+Vivi, 16, Region
+Venistivi, 16, Region
+Piccol, 16, Region
+Tolga Iddio, 16, Region
+Allora Mitridanes, 16, Region
+Messer Gentil de, 16, Region
+Carisendi, 16, Region
+Gentil Carisendi, 16, Region
+Niccoluccio Caccianemico, 16, Region
+Vinto, 16, Region
+Messer Gentile, 16, Region
+Vorrei, 16, Region
+Alcun, 16, Region
+Madonna Dianora, 16, Region
+Morbide, 16, Region
+Frioli, 16, Region
+Udine, 16, Region
+Ansaldo Gradense, 16, Region
+Voglio, 16, Region
+Messere Ansaldo, 16, Region
+Splendide, 16, Region
+Stabia, 16, Region
+Monforte, 16, Region
+Uno, 16, Region
+Palizzi, 16, Region
+Magna, 16, Region
+Bernardo Puccini, 16, Region
+Maravigliossi Minuccio, 16, Region
+Mico, 16, Region
+Muoviti, 16, Region
+Merzede, 16, Region
+Rispose Bernardo, 16, Region
+Cefalù, 16, Region
+Calatabellotta, 16, Region
+Magnifiche, 16, Region
+Ottavian Cesare, 16, Region
+Publio Quinzio Fulvo, 16, Region
+Dal, 16, Region
+Quivi Tito, 16, Region
+Tolga, 16, Region
+Facciano, 16, Region
+Publio, 16, Region
+Usai, 16, Region
+Tito Quinzio, 16, Region
+Era Tito, 16, Region
+Varrone, 16, Region
+Maravigliossi Varrone, 16, Region
+Publio Ambusto, 16, Region
+Acaia, 16, Region
+Santissima, 16, Region
+Egitto, 16, Region
+Tesino, 16, Region
+Finito, 16, Region
+Fra, 16, Region
+Dimmi, 16, Region
+Guarda, 16, Region
+Lungo, 16, Region
+Barbaria, 16, Region
+Sarebbemi, 16, Region
+Adalieta, 16, Region
+Cotale, 16, Region
+Mansuete, 16, Region
+Sopravenne, 16, Region
+Come Gualtieri, 16, Region
+Addorne, 16, Region
+Maria Novella, 16, Region
+CONCLUSIONE, 16, Region
+Primieramente, 16, Region
+Sanza, 16, Region
+Cinciglione, 16, Region
+Scoiaio, 16, Region
+Quali, 16, Region
+Scrittura, 16, Region
+Carlo Magno, 16, Region
+Germia, 16, Region
+QUI, 16, Region
+Egypt, 118, Country
+"Lao Peoples Democratic Republic", 32, Country
+Falkland Islands Malvinas, 26, Country
+Timor-Leste, 20, Country
+China, 13, Country
+Congo, The Democratic Republic of the, 10, Country
+Holy See Vatican City State, 7, Country
+Monaco, 7, Country
+Cuba, 4, Country
+Brunei Darussalam, 4, Country
+Turks and Caicos Islands, 3, Country
+Romania, 2, Country
+United States, 2, Country
+Solomon Islands, 1, Country
+British Indian Ocean Territory, 1, Country
+"Côte dIvoire", 1, Country
+Japan, 1, Country
+Italy, 1, Country
+Israel, 1, Country
+Portugal, 1, Country
+Spain, 1, Country
+Greece, 1, Country
+Canada, 1, Country
+Norway, 1, Country
+France, 1, Country
+Hungary, 1, Country
+Australia, 1, Country
+Colombia, 1, Country
+Russian Federation, 1, Country
+Sweden, 1, Country
+Latvia, 1, Country
+Switzerland, 1, Country
+Finland, 1, Country
+Bulgaria, 1, Country
+Germany, 1, Country
+South Africa, 1, Country
+Indonesia, 1, Country
+Brazil, 1, Country
+Argentina, 1, Country
+Venezuela, Bolivarian Republic of, 1, Country
+Mexico, 1, Country
+Lesotho, 1, Country
+Panama, 1, Country
