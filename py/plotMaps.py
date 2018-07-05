@@ -1,4 +1,5 @@
 import plotly.plotly as py
+plotly.tools.set_credentials_file(username='p-marco', api_key='••••••••••')
 import pandas as pd
 
 df_airports = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2011_february_us_airport_traffic.csv')
