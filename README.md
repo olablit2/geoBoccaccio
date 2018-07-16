@@ -28,9 +28,27 @@ Preliminary steps
 ### Geographic information
 
 * [DONE] Use UDPIPE with the 10 subcorpora. Write the relative CONLL-U files of each partials
-* Extract all the PROPN | SP tokens for each partials (Use G Spreadsheet)
+* [IN PROGRESS] Extract all the PROPN | SP tokens for each partials 
+
+Using R
+```
+	infile <- read.csv(CONNLU)
+	df <- infile[infile[,4] == "PROPN", ]
+	write.csv(df, outfile)
+```
+
+(Using G Spreadsheet)
+
 ```
 	=query({IMPORTRANGE("https://docs.google.com/spreadsheets/d/1Qh7mGzfW2ow8RzOniqO_-60JST6pbT71dfzaz_GtV0k";"prova!A1:J15000")}; "SELECT * WHERE Col5 CONTAINS'SP'";0)
+```
+
+## Merge the various csv
+
+All the csv in the folder are merged into a total one
+
+```
+mlr --csv --rs lf --csv sort -f date,code *.csv > total/final.csv
 ```
 * The given spreadsheets  yields for a list of items of PNs. Order the list alphabetically. Insert a manual column where the token is standardized and give the relevant coords:
 
