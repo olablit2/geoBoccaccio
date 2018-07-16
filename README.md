@@ -74,3 +74,4 @@ Vinegia     | Venezia   | 45.4042008	| 12.1015609  | Buffalmacco	|
 
 
 
+Aggiornato il 16.7.2018 ore 18:00
