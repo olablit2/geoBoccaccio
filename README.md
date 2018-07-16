@@ -28,7 +28,7 @@ Preliminary steps
 ### Geographic information
 
 * [DONE] Use UDPIPE with the 10 subcorpora. Write the relative CONLL-U files of each partials
-* [IN PROGRESS] Extract all the PROPN | SP tokens for each partials 
+* [DONE] Extract all the PROPN | SP tokens for each partials 
 
 Using R
 ```
@@ -45,7 +45,7 @@ Using R
 
 ## Merge the various csv
 
-All the csv in the folder are merged into a total one
+All the csv in the folder are merged into a total one. Alphabetically ordered
 
 ```
 mlr --csv --rs lf --csv sort -f date,code *.csv > total/final.csv
