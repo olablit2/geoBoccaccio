@@ -1,4 +1,4 @@
-![figure](https://github.com/olablit2/geoBoccaccio/blob/master/data/out/places/places.png "Logo Title Text 1")
+![figure](https://github.com/olablit2/geoBoccaccio/raw/master/data/out/places/places.png "Logo Title Text 1")
 
 
 ## 2018 Research paper
