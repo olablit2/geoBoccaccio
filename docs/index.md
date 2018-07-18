@@ -3,7 +3,7 @@
 
 ## 2018 Research paper
 
-* [Collaborative writing](https://olablit2.github.io/geoBoccaccio/2018-article/)
+* [Article](https://olablit2.github.io/geoBoccaccio/2018-article/)
 * [Bibliography](https://github.com/olablit2/geoBoccaccio/blob/master/docs/assets/bibliography.bib)
 
 ## General repository
