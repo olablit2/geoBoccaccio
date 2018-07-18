@@ -24,17 +24,3 @@
 * [Conclusioni](https://olablit2.github.io/geoBoccaccio/2018-article/90-conclusion)
 * [Roadmap](https://olablit2.github.io/geoBoccaccio/2018-article/99-roadmap)
 
-
-
-
-{% for item in site.2018-article %}
-		  <article>
-		    <h2>
-		      <a href="{{ post.url }}">
-		        {{ item.title }}
-		      </a>
-		    </h2>
-		    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ item.date | date_to_long_string }}</time>
-		    {{ item.content }}
-		  </article>
-{% endfor %}
