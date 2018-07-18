@@ -1,1 +1,4 @@
 remote_theme: p-marco/themePaper
+collections:
+  2018-article:
+    output: true
