@@ -10,6 +10,9 @@
 
 * [repo](https://github.com/olablit2/geoBoccaccio/)
 
+## Files
+* [Maps](https://olablit2.github.io/geoBoccaccio/2018-article/95-maps)
+
 ## Useful links
 
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
