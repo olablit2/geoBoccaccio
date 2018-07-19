@@ -23,4 +23,6 @@
 * [Ch.4](https://olablit2.github.io/geoBoccaccio/2018-article/50-chapter4)
 * [Conclusioni](https://olablit2.github.io/geoBoccaccio/2018-article/90-conclusion)
 * [Roadmap](https://olablit2.github.io/geoBoccaccio/2018-article/99-roadmap)
+* Files
+	* [Mappe](https://olablit2.github.io/geoBoccaccio/2018-article/95-maps)
 

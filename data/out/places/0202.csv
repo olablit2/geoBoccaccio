@@ -1,0 +1,13 @@
+"","V2","X","Standardized","V3.x","lon","lat","V0","V1","V3.y","V4","V5","V6","V7","V8","V9","V10","V11","V12"
+"1","Asti",34,"Asti","Asti",8.2064257,44.9007512,7,3,"Asti","PROPN","SP","_",1,"obl","_","SpaceAfter=No",NA,NA
+"2","Asti",34,"Asti","Asti",8.2064257,44.9007512,202,19,"Asti","PROPN","SP","_",17,"flat:name","_","_",NA,NA
+"3","Asti",32,"Asti","Asti",8.2064257,44.9007512,7,3,"Asti","PROPN","SP","_",1,"obl","_","SpaceAfter=No",NA,NA
+"4","Asti",32,"Asti","Asti",8.2064257,44.9007512,202,19,"Asti","PROPN","SP","_",17,"flat:name","_","_",NA,NA
+"5","Asti",33,"Asti","Asti",8.2064257,44.9007512,7,3,"Asti","PROPN","SP","_",1,"obl","_","SpaceAfter=No",NA,NA
+"6","Asti",33,"Asti","Asti",8.2064257,44.9007512,202,19,"Asti","PROPN","SP","_",17,"flat:name","_","_",NA,NA
+"7","Bologna",44,"Bologna","Bologna",11.3426162,44.494887,208,25,"Bologna","PROPN","SP","_",23,"obl","_","SpaceAfter=No",NA,NA
+"8","Ferrara",80,"Ferrara","Ferrara",11.619787,44.8381237,195,12,"Ferrara","PROPN","SP","_",9,"nmod","_","SpaceAfter=No",NA,NA
+"9","Ferrara",80,"Ferrara","Ferrara",11.619787,44.8381237,226,42,"Ferrara","PROPN","SP","_",40,"obl","_","_",NA,NA
+"10","Ferrara",79,"Ferrara","Ferrara",11.619787,44.8381237,195,12,"Ferrara","PROPN","SP","_",9,"nmod","_","SpaceAfter=No",NA,NA
+"11","Ferrara",79,"Ferrara","Ferrara",11.619787,44.8381237,226,42,"Ferrara","PROPN","SP","_",40,"obl","_","_",NA,NA
+"12","Verona",261,"Verona","Verona",10.9916215,45.4383842,230,46,"Verona","PROPN","SP","_",44,"obl","_","SpaceAfter=No",NA,NA

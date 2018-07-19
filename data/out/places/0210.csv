@@ -1,0 +1,67 @@
+"","V2","X","Standardized","V3.x","lon","lat","V0","V1","V3.y","V4","V5","V6","V7","V8","V9","V10","V11","V12"
+"1","Monaco",211,"Principato di Monaco","Monaco",7.4246158,43.7384176,7,3,"Monaco","PROPN","SP","_",1,"nmod","_","_",NA,NA
+"2","Monaco",211,"Principato di Monaco","Monaco",7.4246158,43.7384176,1177,54,"Monaco","PROPN","SP","_",55,"obl","_","_",NA,NA
+"3","Monaco",211,"Principato di Monaco","Monaco",7.4246158,43.7384176,1210,86,"Monaco","PROPN","SP","_",83,"conj","_","_",NA,NA
+"4","Monaco",211,"Principato di Monaco","Monaco",7.4246158,43.7384176,1308,11,"Monaco","PROPN","SP","_",9,"obl","_","_",NA,NA
+"5","Monaco",210,"Principato di Monaco","Monaco",7.4246158,43.7384176,7,3,"Monaco","PROPN","SP","_",1,"nmod","_","_",NA,NA
+"6","Monaco",210,"Principato di Monaco","Monaco",7.4246158,43.7384176,1177,54,"Monaco","PROPN","SP","_",55,"obl","_","_",NA,NA
+"7","Monaco",210,"Principato di Monaco","Monaco",7.4246158,43.7384176,1210,86,"Monaco","PROPN","SP","_",83,"conj","_","_",NA,NA
+"8","Monaco",210,"Principato di Monaco","Monaco",7.4246158,43.7384176,1308,11,"Monaco","PROPN","SP","_",9,"obl","_","_",NA,NA
+"9","Monaco",212,"Principato di Monaco","Monaco",7.4246158,43.7384176,7,3,"Monaco","PROPN","SP","_",1,"nmod","_","_",NA,NA
+"10","Monaco",212,"Principato di Monaco","Monaco",7.4246158,43.7384176,1177,54,"Monaco","PROPN","SP","_",55,"obl","_","_",NA,NA
+"11","Monaco",212,"Principato di Monaco","Monaco",7.4246158,43.7384176,1210,86,"Monaco","PROPN","SP","_",83,"conj","_","_",NA,NA
+"12","Monaco",212,"Principato di Monaco","Monaco",7.4246158,43.7384176,1308,11,"Monaco","PROPN","SP","_",9,"obl","_","_",NA,NA
+"13","Monaco",213,"Principato di Monaco","Monaco",7.4246158,43.7384176,7,3,"Monaco","PROPN","SP","_",1,"nmod","_","_",NA,NA
+"14","Monaco",213,"Principato di Monaco","Monaco",7.4246158,43.7384176,1177,54,"Monaco","PROPN","SP","_",55,"obl","_","_",NA,NA
+"15","Monaco",213,"Principato di Monaco","Monaco",7.4246158,43.7384176,1210,86,"Monaco","PROPN","SP","_",83,"conj","_","_",NA,NA
+"16","Monaco",213,"Principato di Monaco","Monaco",7.4246158,43.7384176,1308,11,"Monaco","PROPN","SP","_",9,"obl","_","_",NA,NA
+"17","Pisa",206,"Pisa","Pisa",10.4016888,43.7228386,3103,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"18","Pisa",206,"Pisa","Pisa",10.4016888,43.7228386,470,38,"Pisa","PROPN","SP","_",36,"nmod","_","SpaceAfter=No",NA,NA
+"19","Pisa",206,"Pisa","Pisa",10.4016888,43.7228386,342,4,"Pisa","PROPN","SP","_",6,"nmod","_","_",NA,NA
+"20","Pisa",206,"Pisa","Pisa",10.4016888,43.7228386,3435,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"21","Pisa",206,"Pisa","Pisa",10.4016888,43.7228386,2831,17,"Pisa","PROPN","SP","_",19,"fixed","_","_",NA,NA
+"22","Pisa",206,"Pisa","Pisa",10.4016888,43.7228386,1051,7,"Pisa","PROPN","SP","_",1,"conj","_","_",NA,NA
+"23","Pisa",206,"Pisa","Pisa",10.4016888,43.7228386,3453,12,"Pisa","PROPN","SP","_",10,"obl","_","SpaceAfter=No",NA,NA
+"24","Pisa",201,"Pisa","Pisa",10.4016888,43.7228386,3103,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"25","Pisa",201,"Pisa","Pisa",10.4016888,43.7228386,470,38,"Pisa","PROPN","SP","_",36,"nmod","_","SpaceAfter=No",NA,NA
+"26","Pisa",201,"Pisa","Pisa",10.4016888,43.7228386,342,4,"Pisa","PROPN","SP","_",6,"nmod","_","_",NA,NA
+"27","Pisa",201,"Pisa","Pisa",10.4016888,43.7228386,3435,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"28","Pisa",201,"Pisa","Pisa",10.4016888,43.7228386,2831,17,"Pisa","PROPN","SP","_",19,"fixed","_","_",NA,NA
+"29","Pisa",201,"Pisa","Pisa",10.4016888,43.7228386,1051,7,"Pisa","PROPN","SP","_",1,"conj","_","_",NA,NA
+"30","Pisa",201,"Pisa","Pisa",10.4016888,43.7228386,3453,12,"Pisa","PROPN","SP","_",10,"obl","_","SpaceAfter=No",NA,NA
+"31","Pisa",202,"Pisa","Pisa",10.4016888,43.7228386,3103,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"32","Pisa",202,"Pisa","Pisa",10.4016888,43.7228386,470,38,"Pisa","PROPN","SP","_",36,"nmod","_","SpaceAfter=No",NA,NA
+"33","Pisa",202,"Pisa","Pisa",10.4016888,43.7228386,342,4,"Pisa","PROPN","SP","_",6,"nmod","_","_",NA,NA
+"34","Pisa",202,"Pisa","Pisa",10.4016888,43.7228386,3435,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"35","Pisa",202,"Pisa","Pisa",10.4016888,43.7228386,2831,17,"Pisa","PROPN","SP","_",19,"fixed","_","_",NA,NA
+"36","Pisa",202,"Pisa","Pisa",10.4016888,43.7228386,1051,7,"Pisa","PROPN","SP","_",1,"conj","_","_",NA,NA
+"37","Pisa",202,"Pisa","Pisa",10.4016888,43.7228386,3453,12,"Pisa","PROPN","SP","_",10,"obl","_","SpaceAfter=No",NA,NA
+"38","Pisa",203,"Pisa","Pisa",10.4016888,43.7228386,3103,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"39","Pisa",203,"Pisa","Pisa",10.4016888,43.7228386,470,38,"Pisa","PROPN","SP","_",36,"nmod","_","SpaceAfter=No",NA,NA
+"40","Pisa",203,"Pisa","Pisa",10.4016888,43.7228386,342,4,"Pisa","PROPN","SP","_",6,"nmod","_","_",NA,NA
+"41","Pisa",203,"Pisa","Pisa",10.4016888,43.7228386,3435,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"42","Pisa",203,"Pisa","Pisa",10.4016888,43.7228386,2831,17,"Pisa","PROPN","SP","_",19,"fixed","_","_",NA,NA
+"43","Pisa",203,"Pisa","Pisa",10.4016888,43.7228386,1051,7,"Pisa","PROPN","SP","_",1,"conj","_","_",NA,NA
+"44","Pisa",203,"Pisa","Pisa",10.4016888,43.7228386,3453,12,"Pisa","PROPN","SP","_",10,"obl","_","SpaceAfter=No",NA,NA
+"45","Pisa",205,"Pisa","Pisa",10.4016888,43.7228386,3103,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"46","Pisa",205,"Pisa","Pisa",10.4016888,43.7228386,470,38,"Pisa","PROPN","SP","_",36,"nmod","_","SpaceAfter=No",NA,NA
+"47","Pisa",205,"Pisa","Pisa",10.4016888,43.7228386,342,4,"Pisa","PROPN","SP","_",6,"nmod","_","_",NA,NA
+"48","Pisa",205,"Pisa","Pisa",10.4016888,43.7228386,3435,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"49","Pisa",205,"Pisa","Pisa",10.4016888,43.7228386,2831,17,"Pisa","PROPN","SP","_",19,"fixed","_","_",NA,NA
+"50","Pisa",205,"Pisa","Pisa",10.4016888,43.7228386,1051,7,"Pisa","PROPN","SP","_",1,"conj","_","_",NA,NA
+"51","Pisa",205,"Pisa","Pisa",10.4016888,43.7228386,3453,12,"Pisa","PROPN","SP","_",10,"obl","_","SpaceAfter=No",NA,NA
+"52","Pisa",207,"Pisa","Pisa",10.4016888,43.7228386,3103,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"53","Pisa",207,"Pisa","Pisa",10.4016888,43.7228386,470,38,"Pisa","PROPN","SP","_",36,"nmod","_","SpaceAfter=No",NA,NA
+"54","Pisa",207,"Pisa","Pisa",10.4016888,43.7228386,342,4,"Pisa","PROPN","SP","_",6,"nmod","_","_",NA,NA
+"55","Pisa",207,"Pisa","Pisa",10.4016888,43.7228386,3435,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"56","Pisa",207,"Pisa","Pisa",10.4016888,43.7228386,2831,17,"Pisa","PROPN","SP","_",19,"fixed","_","_",NA,NA
+"57","Pisa",207,"Pisa","Pisa",10.4016888,43.7228386,1051,7,"Pisa","PROPN","SP","_",1,"conj","_","_",NA,NA
+"58","Pisa",207,"Pisa","Pisa",10.4016888,43.7228386,3453,12,"Pisa","PROPN","SP","_",10,"obl","_","SpaceAfter=No",NA,NA
+"59","Pisa",204,"Pisa","Pisa",10.4016888,43.7228386,3103,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"60","Pisa",204,"Pisa","Pisa",10.4016888,43.7228386,470,38,"Pisa","PROPN","SP","_",36,"nmod","_","SpaceAfter=No",NA,NA
+"61","Pisa",204,"Pisa","Pisa",10.4016888,43.7228386,342,4,"Pisa","PROPN","SP","_",6,"nmod","_","_",NA,NA
+"62","Pisa",204,"Pisa","Pisa",10.4016888,43.7228386,3435,15,"Pisa","PROPN","SP","_",17,"obl","_","_",NA,NA
+"63","Pisa",204,"Pisa","Pisa",10.4016888,43.7228386,2831,17,"Pisa","PROPN","SP","_",19,"fixed","_","_",NA,NA
+"64","Pisa",204,"Pisa","Pisa",10.4016888,43.7228386,1051,7,"Pisa","PROPN","SP","_",1,"conj","_","_",NA,NA
+"65","Pisa",204,"Pisa","Pisa",10.4016888,43.7228386,3453,12,"Pisa","PROPN","SP","_",10,"obl","_","SpaceAfter=No",NA,NA
+"66","Ravenna",219,"Ravenna","Ravenna",12.2035294,44.4183598,615,39,"Ravenna","PROPN","SP","_",37,"obl","_","SpaceAfter=No",NA,NA
