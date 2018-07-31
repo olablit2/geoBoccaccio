@@ -1,0 +1,41 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage[italian]{babel}
+
+\usepackage[
+backend=biber,
+style=authoryear,
+citestyle=authoryear-comp
+]{biblatex}
+\addbibresource{../../assets/bibliography.bib}
+
+\usepackage{longtable}
+\usepackage{booktabs}
+
+\usepackage{graphicx}
+
+\def\tightlist{}
+
+\usepackage{hyperref}
+
+
+
+\begin{document}
+\title{Nuove prospettive per lo studio della toponomastica nel Decameron}
+\author{
+  Marcello Bolpagni\\
+  \texttt{marcello.bolpagni@gmail.com}
+  \and
+  Marco Petolicchio\\
+  \texttt{marco.petolicchio01@upol.cz}
+}\maketitle
+
+\tableofcontents
+\newpage
+\input{body.tex}
+
+\printbibliography
+\end{document}

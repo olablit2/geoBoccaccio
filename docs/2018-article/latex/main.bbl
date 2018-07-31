@@ -1,0 +1,534 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{asor1992}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=eb7138ec1126abb8b84bf7ba52275426}{%
+           family={Asor\bibnamedelima Rosa},
+           familyi={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb7138ec1126abb8b84bf7ba52275426}
+      \strng{fullhash}{eb7138ec1126abb8b84bf7ba52275426}
+      \strng{authornamehash}{eb7138ec1126abb8b84bf7ba52275426}
+      \strng{authorfullhash}{eb7138ec1126abb8b84bf7ba52275426}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Letteratura italiana. Le Opere, I. Dalle Origine al Cinquecento. Turı́n: Einaudi}
+      \field{title}{Decameron di Giovanni Boccaccio}
+      \field{year}{1992}
+      \field{pages}{473\bibrangedash 591}
+      \range{pages}{119}
+    \endentry
+    \entry{battaglia1993}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=8f911cf2c5688eb48988c3449a253661}{%
+           family={Battaglia},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=5af449d3a7b81742014a24ce71464ca2}{%
+           family={Russo},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Liguori}%
+      }
+      \strng{namehash}{2ae67424eb1590731106bc5815a54b01}
+      \strng{fullhash}{2ae67424eb1590731106bc5815a54b01}
+      \strng{authornamehash}{2ae67424eb1590731106bc5815a54b01}
+      \strng{authorfullhash}{2ae67424eb1590731106bc5815a54b01}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788820722715}
+      \field{series}{Biblioteca (Liguori editore)}
+      \field{title}{Capitoli per una storia della novellistica italiana: dalle origini al Cinquecento}
+      \field{year}{1993}
+      \verb{url}
+      \verb https://books.google.it/books?id=aHttQgAACAAJ
+      \endverb
+    \endentry
+    \entry{1966decameron}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=2,hash=b363174c12dc68b2cdcd6d8faf04635d}{%
+           family={Boccaccio},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Laterza}%
+      }
+      \strng{namehash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \strng{fullhash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \strng{authornamehash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \strng{authorfullhash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Universale laterza}
+      \field{title}{Il Decameron, a cura di Carlo Salinari}
+      \field{year}{1966}
+      \verb{url}
+      \verb https://books.google.it/books?id=KGa0tAEACAAJ
+      \endverb
+    \endentry
+    \entry{boccaccio2013decameron}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=2,hash=b363174c12dc68b2cdcd6d8faf04635d}{%
+           family={Boccaccio},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=71c15609a728de8e751ad43cbbc09e05}{%
+           family={Quondam},
+           familyi={Q\bibinitperiod},
+           given={Amedeo},
+           giveni={A\bibinitperiod}}}%
+        {{hash=37a117c4cfcbf2b77c20f9361179655f}{%
+           family={Fiorilla},
+           familyi={F\bibinitperiod},
+           given={Maurizio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=18c8aeb6161005f831625d406eedc6ef}{%
+           family={Alfano},
+           familyi={A\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bureau}%
+      }
+      \strng{namehash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \strng{fullhash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \strng{authornamehash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \strng{authorfullhash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \strng{editornamehash}{f8c9f355ad85821fd911f6459636cbb2}
+      \strng{editorfullhash}{f8c9f355ad85821fd911f6459636cbb2}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788858644416}
+      \field{series}{Classici}
+      \field{title}{Decameron: A cura di Amedeo Quondam, Maurizio Fiorilla e Giancarlo Alfano}
+      \field{year}{2013}
+      \verb{url}
+      \verb https://books.google.it/books?id=aAifzeIhlX8C
+      \endverb
+    \endentry
+    \entry{brancadecameron}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=2,hash=524f6bb46346bed549f49127cb7286cb}{%
+           family={Boccaccio},
+           familyi={B\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Einaudi}%
+      }
+      \strng{namehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{fullhash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authornamehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authorfullhash}{524f6bb46346bed549f49127cb7286cb}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decameron}
+      \field{year}{1992}
+    \endentry
+    \entry{demontibus}{book}{}
+      \name{author}{4}{uniquelist=1}{%
+        {{uniquename=2,hash=b363174c12dc68b2cdcd6d8faf04635d}{%
+           family={Boccaccio},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=5612a13d941637deb6602b4c8ddfd24a}{%
+           family={Branca},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{uniquename=0,hash=3f1497ceb7aa8a32038e9d59893f55b8}{%
+           family={Zaccaria},
+           familyi={Z\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{uniquename=0,hash=08c1744aa684931dbd741866766fb6a8}{%
+           family={Stocchi},
+           familyi={S\bibinitperiod},
+           given={M.P.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Arnoldo Mondadori}%
+      }
+      \strng{namehash}{b28c5a642ab49f682788e9e2d1b1927f}
+      \strng{fullhash}{d9575fe0502d47c5a38492df9b8860ce}
+      \strng{authornamehash}{b28c5a642ab49f682788e9e2d1b1927f}
+      \strng{authorfullhash}{d9575fe0502d47c5a38492df9b8860ce}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{sv. 2,sv. 7--8}
+      \field{series}{I Classici Mondadori}
+      \field{title}{Tutte le opere di Giovanni Boccaccio: De montibus, silvis, fontibus, lacubus, fluminibus, stagnis seu paludibus et de diversis nominibus maris. Genealogie deorum gentilium}
+      \field{year}{1998}
+      \verb{url}
+      \verb https://books.google.cz/books?id=FMT%5C_sgEACAAJ
+      \endverb
+    \endentry
+    \entry{bolpagni2016}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=1e7126c119b85ff153069645ba69029b}{%
+           family={Bolpagni},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=10676e963f5fb96644fb554f3b9d9129}{%
+           family={Pini},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=724228b98794cc6beb02128c11aa4e97}{%
+           family={Burgazzi},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Prospero Editore}%
+      }
+      \strng{namehash}{4b4320efb26dafb55ae119b5e5a7f1ec}
+      \strng{fullhash}{4b4320efb26dafb55ae119b5e5a7f1ec}
+      \strng{authornamehash}{4b4320efb26dafb55ae119b5e5a7f1ec}
+      \strng{authorfullhash}{4b4320efb26dafb55ae119b5e5a7f1ec}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788898419753}
+      \field{series}{Prospero Accademia. Letteratura Italiana}
+      \field{title}{La geografia del Decameron. Luoghi, viaggi e pregiudizi nel capolavoro di Boccaccio}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://books.google.cz/books?id=4VwotAEACAAJ
+      \endverb
+    \endentry
+    \entry{branca1977giovanni}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5612a13d941637deb6602b4c8ddfd24a}{%
+           family={Branca},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {G. C. Sansoni}%
+      }
+      \strng{namehash}{5612a13d941637deb6602b4c8ddfd24a}
+      \strng{fullhash}{5612a13d941637deb6602b4c8ddfd24a}
+      \strng{authornamehash}{5612a13d941637deb6602b4c8ddfd24a}
+      \strng{authorfullhash}{5612a13d941637deb6602b4c8ddfd24a}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{La Civiltà europea}
+      \field{title}{Giovanni Boccaccio: profilo biografico}
+      \field{year}{1977}
+      \verb{url}
+      \verb https://books.google.cz/books?id=EVgHAQAAIAAJ
+      \endverb
+    \endentry
+    \entry{cavallini2002}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cc693f7059c373a8b35e1f3baffe7639}{%
+           family={Cavallini},
+           familyi={C\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Istituti editoriali e poligrafici internazionali; Fabrizio Serra}%
+      }
+      \strng{namehash}{cc693f7059c373a8b35e1f3baffe7639}
+      \strng{fullhash}{cc693f7059c373a8b35e1f3baffe7639}
+      \strng{authornamehash}{cc693f7059c373a8b35e1f3baffe7639}
+      \strng{authorfullhash}{cc693f7059c373a8b35e1f3baffe7639}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rivista di letteratura italiana}
+      \field{number}{3}
+      \field{title}{Postilla sulla geografia del" Decameron"}
+      \field{volume}{20}
+      \field{year}{2002}
+      \field{pages}{1000\bibrangedash 1014}
+      \range{pages}{15}
+    \endentry
+    \entry{ferroni2012}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=390917b9ef184d663bec782f39d97f8c}{%
+           family={Ferroni},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Editori Laterza}%
+      }
+      \strng{namehash}{390917b9ef184d663bec782f39d97f8c}
+      \strng{fullhash}{390917b9ef184d663bec782f39d97f8c}
+      \strng{authornamehash}{390917b9ef184d663bec782f39d97f8c}
+      \strng{authorfullhash}{390917b9ef184d663bec782f39d97f8c}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788858106426}
+      \field{series}{Universale Laterza}
+      \field{title}{Prima lezione di letteratura italiana}
+      \field{year}{2012}
+      \verb{url}
+      \verb https://books.google.it/books?id=HlwvDwAAQBAJ
+      \endverb
+    \endentry
+    \entry{getto1972vita}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d66590b863d019369509037996ac2493}{%
+           family={Getto},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {G. B. Petrini}%
+      }
+      \strng{namehash}{d66590b863d019369509037996ac2493}
+      \strng{fullhash}{d66590b863d019369509037996ac2493}
+      \strng{authornamehash}{d66590b863d019369509037996ac2493}
+      \strng{authorfullhash}{d66590b863d019369509037996ac2493}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vita di forme e forme di vita nel Decameron}
+      \field{year}{1972}
+      \verb{url}
+      \verb https://books.google.cz/books?id=CCRdAAAAMAAJ
+      \endverb
+    \endentry
+    \entry{lefebvre1978}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=273cfc35f628ae6e50d2c0cc3fba19ff}{%
+           family={Lefebvre},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{uniquename=0,hash=ad7ab1ffffe1a223a97a13a4a3710089}{%
+           family={Ricci},
+           familyi={R\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Moizzi}%
+      }
+      \strng{namehash}{fe2b2fa8929f87e1facfc60565811ab9}
+      \strng{fullhash}{fe2b2fa8929f87e1facfc60565811ab9}
+      \strng{authornamehash}{fe2b2fa8929f87e1facfc60565811ab9}
+      \strng{authorfullhash}{fe2b2fa8929f87e1facfc60565811ab9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Spazio e società}
+      \field{title}{La produzione dello spazio}
+      \field{year}{1978}
+      \verb{url}
+      \verb https://books.google.cz/books?id=g2MgcgAACAAJ
+      \endverb
+    \endentry
+    \entry{lotman1973}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=dd9379ad3b3bf165053f1e10843f985e}{%
+           family={Lotman},
+           familyi={L\bibinitperiod},
+           given={Jurij\bibnamedelima Michajlovich},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=0a50b34563b1c1c440e3edafa2103770}{%
+           family={Uspensky},
+           familyi={U\bibinitperiod},
+           given={Boris\bibnamedelima Andrejevich},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=679f9b2b642bb5d4c2c8f3c67d26a1eb}{%
+           family={Janovich},
+           familyi={J\bibinitperiod},
+           given={Klara\bibnamedelima Strada},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {G. Einaudi}%
+      }
+      \strng{namehash}{44c75d5bad3207a74df2fa2ae4d62f76}
+      \strng{fullhash}{44c75d5bad3207a74df2fa2ae4d62f76}
+      \strng{authornamehash}{44c75d5bad3207a74df2fa2ae4d62f76}
+      \strng{authorfullhash}{44c75d5bad3207a74df2fa2ae4d62f76}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ricerche semiotiche: nuove tendenze delle scienze umane nell'URSS}
+      \field{year}{1973}
+    \endentry
+    \entry{morosini2010boccaccio}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=daf28d5bbe303591db322551e8f79bee}{%
+           family={Morosini},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=7cc070b6217981079705b56c2a310d4f}{%
+           family={Cantile},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {M. Pagliai}%
+      }
+      \strng{namehash}{ae66930e3f0b76d7f612eebc9f053540}
+      \strng{fullhash}{ae66930e3f0b76d7f612eebc9f053540}
+      \strng{authornamehash}{ae66930e3f0b76d7f612eebc9f053540}
+      \strng{authorfullhash}{ae66930e3f0b76d7f612eebc9f053540}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788856401028}
+      \field{series}{Storie del mondo}
+      \field{title}{Boccaccio geografo: un viaggio nel Mediterraneo tra le città, i giardini e-- il "mondo" di Giovanni Boccaccio}
+      \field{year}{2010}
+      \verb{url}
+      \verb https://books.google.cz/books?id=MwK%5C_sxilYV0C
+      \endverb
+    \endentry
+    \entry{surdich2008boccaccio}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1b1342f73918c800ff17218b30040149}{%
+           family={Surdich},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Il mulino}%
+      }
+      \strng{namehash}{1b1342f73918c800ff17218b30040149}
+      \strng{fullhash}{1b1342f73918c800ff17218b30040149}
+      \strng{authornamehash}{1b1342f73918c800ff17218b30040149}
+      \strng{authorfullhash}{1b1342f73918c800ff17218b30040149}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788815125514}
+      \field{series}{Itinerari (Società editrice il Mulino).: Filologia e critica letteraria}
+      \field{title}{Boccaccio}
+      \field{year}{2008}
+      \verb{url}
+      \verb https://books.google.cz/books?id=%5C_vvyOgAACAAJ
+      \endverb
+    \endentry
+    \entry{zatti2004}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9422ae8d2c8d3b6c20b16dd4453ecc9e}{%
+           family={Zatti},
+           familyi={Z\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f9afbce1cfe9416da2f8bb97e5ad312d}{%
+           family={Picone},
+           familyi={P\bibinitperiod},
+           given={Michelangelo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a6eee872baf858d708c6d680140edb70}{%
+           family={Mesirca},
+           familyi={M\bibinitperiod},
+           given={Margherita},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cesati}%
+      }
+      \strng{namehash}{9422ae8d2c8d3b6c20b16dd4453ecc9e}
+      \strng{fullhash}{9422ae8d2c8d3b6c20b16dd4453ecc9e}
+      \strng{authornamehash}{9422ae8d2c8d3b6c20b16dd4453ecc9e}
+      \strng{authorfullhash}{9422ae8d2c8d3b6c20b16dd4453ecc9e}
+      \strng{editornamehash}{0265571f2a5c6dd951c23965adde0ced}
+      \strng{editorfullhash}{0265571f2a5c6dd951c23965adde0ced}
+      \field{sortinit}{Z}
+      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Introduzione al Decameron}
+      \field{title}{Il mercante sulla ruota: la seconda giornata}
+      \field{year}{2004}
+      \field{pages}{79\bibrangedash 97}
+      \range{pages}{19}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
