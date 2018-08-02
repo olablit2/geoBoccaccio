@@ -2166,6 +2166,11 @@
     <bcf:citekey order="20">lotman1973</bcf:citekey>
     <bcf:citekey order="21">asor1992</bcf:citekey>
     <bcf:citekey order="22">zatti2004</bcf:citekey>
+    <bcf:citekey order="23">owens2011</bcf:citekey>
+    <bcf:citekey order="24">moretti2005</bcf:citekey>
+    <bcf:citekey order="25">udpipe2017</bcf:citekey>
+    <bcf:citekey order="26">schmid1994b</bcf:citekey>
+    <bcf:citekey order="27">pattern2012</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global/" type="entry" sortscheme="nyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

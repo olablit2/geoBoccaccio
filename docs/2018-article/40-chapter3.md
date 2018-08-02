@@ -3,9 +3,8 @@ author: marcello
 
 ---
 
-[EDIT FILE](https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/40-chapter3.md)
 
-## Narratologia
+# Narratologia
 
 * Lo spostamento dei personaggi e/o della narrazione all’interno di una novella prevede direzioni più frequenti di altre? (es. est-ovest, nord-sud)
 * Possiamo identificare delle tendenze migratorie nella seconda giornata?

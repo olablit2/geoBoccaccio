@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Marcello Bolpagni Dept. of General Linguistics, Palacky University Olomouc marcello.bolpagni@gmail.com" />
+  <meta name="author" content="Marco Petolicchio Dept. of Romance Languages, Palacky University Olomouc marco.petolicchio01@upol.cz; ORCID: 0000-0001-7017-7862" />
+  <title>Nuove prospettive per lo studio della toponomastica nel Decameron</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<div id="header">
+<h1 class="title">Nuove prospettive per lo studio della toponomastica nel Decameron</h1>
+<h2 class="author">Marcello Bolpagni<br />
+Dept. of General Linguistics, Palacky University Olomouc<br />
+<code>marcello.bolpagni@gmail.com</code></h2>
+<h2 class="author">Marco Petolicchio<br />
+Dept. of Romance Languages, Palacky University Olomouc<br />
+<code>marco.petolicchio01@upol.cz</code>; <code>ORCID: 0000-0001-7017-7862</code><br /></h2>
+</div>
+<h1 id="prefazione">Prefazione</h1>
+<h2 id="abstract">Abstract</h2>
+<p>This research aims to investigate over a coherent way to extract geographical information by the Decameron’s novels of Boccaccio using modern tools.</p>
+<h2 id="keywords">Keywords</h2>
+<p>computational linguistics; reproducible research;</p>
+<h2 id="aknowledgments">Aknowledgments</h2>
+<p>Progetto parzialmente finanziato grazie al grant XXX dell’Università YYY.</p>
+<h1 id="introduzione">Introduzione</h1>
+<h1 id="brevi-note-sullo-stato-dellarte-nella-geografia-del-decameron">Brevi note sullo stato dell’arte nella geografia del Decameron</h1>
+<p>Una delle caratteristiche principali del <em>Decameron</em> di Giovanni Boccaccio è senza dubbio l’enorme varietà geografica presente nell’opera: l’autore infatti cita innumerevoli paesi, città, piccoli borghi o addirittura luoghi fantastici, che all’interno delle cento novelle rappresentano ambientazioni o anche soltanto rapidi accenni. Un incredibile paesaggio si delinea dunque tra le pagine di quest’opera, che stimola continuamente l’interesse del lettore a spostarsi tra Firenze, Napoli, Bologna, a tuffarsi nel Mediterraneo, a risalire l’Europa sino in Irlanda, e a immaginare un esotico oriente nel cinese Catai (X 4) <a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> «una geografia così immensa e irrequieta, così gioiosa di vagabondare, da novella a novella e all’interno di una stessa novella» <span class="citation"></span>. In merito alla geografia, la storia della critica decameroniana si è espressa in maniera saltuaria e difforme: il primo studio realmente focalizzato su questo argomento è arrivato soltanto nel 2011: si tratta dell’importante miscellanea di studi dal titolo <em>Boccaccio geografo</em>, a cura di Roberta Morosini <span class="citation"></span>. Proprio dai contributi a questo testo si traggono numerose notizie riguardo al mondo geografico del Certaldese <a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>.</p>
+<p>In questa sede appare doveroso soltanto ricordare brevemente che l’interesse geografico di Boccaccio nasce da stimoli diversi, quasi tutti provocatigli dal contatto con la corte di Re Roberto d’Angiò a Napoli. Qui il certaldese trascorse gli anni della sua formazione e giovinezza: vi giunse infatti quattordicenne nel 1327, e tornò a Firenze, a malincuore, solo nel 1341 <span class="citation"></span>. Oltre alla frequentazione della residenza reale, fonte di stimoli intellettuali e letterari fondamentali per la formazione del poeta, durante il suo soggiorno napoletano, Boccaccio ebbe modo di impratichirsi anche nell’arte del commercio, lavorando a fianco del padre, agente dell’importante compagnia commerciale fiorentina dei Bardi: il giovane si occupava di lettere di credito, di cambio di monete, e di cassa. Spesso, inoltre, si spostava dalla sua postazione per compiere varie commissioni dalla zona portuale: proprio dall’approfondita conoscenza di Boccaccio di quei luoghi nasce la perfetta ricostruzione ambientale della novella II 5, ambientata nella Rua Catalana di Napoli, insieme con i suoi personaggi più caratteristici, che ritroveremo poi nelle salaci rappresentazioni dell’adescatrice palermitana madonna Iancofiore nella VIII 10, o di Fiordaliso, finta sorella di Andreuccio, nella succitata novella napoletana. È altamente probabile che la frequentazione quotidiana con mercanti e gente proveniente dai più diversi paesi d’Occidente e d’Oriente, abbia suscitato sin dall’inizio in Boccaccio una sensibilità geografica che, pur basandosi, nella maggior parte dei casi, su racconti orali di uomini d’affari, ha influito non poco sull’ambientazione variegata dei luoghi decameroniani. Si è fatto spesso riferimento, in sede critica, al cosidetto realismo delle novelle boccacciane, in cui anche il misterioso Oriente diventa uno <em>spazio sociale</em> attendibile, nell’accezione proposta da Lefebvre, secondo il quale lo spazio sociale è</p>
+<blockquote>
+<p>l’incontro, l’unione, la simultaneità <span>[</span>…<span>]</span> tutto ciò che è prodotto dalla natura e dalla società <span>[</span>…<span>]</span> esseri viventi, cose, oggetti, opere, segni e simboli</p>
+<p><span class="citation"></span></p>
+</blockquote>
+<p>Si può affrontare dunque uno spazio di viaggio avventuroso nel Mediterraneo come seguendo un portolano mercantile, o un’ambientazione veneziana come luogo in cui convogliano i peggiori sentimenti umani <a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>.</p>
+<p>Sovente in letteratura specializzata si accenna a un vago “realismo” decameroniano, termine ancora tutto da circoscrivere e ponderare. Posto che, in questa sede, interessa soprattutto il realismo geografico, è altresì innegabile che esso non possa essere disgiunto, almeno a livello di descrizione e ambientazione, da quello storico o temporale: già negli anni Sessanta la critica ha cominciato a sottolineare l’empirismo del punto di vista di Boccaccio, che si preoccupa sempre, o quasi, di dare ai suoi racconti il colore di fatti realmente accaduti, dove gli ambienti sono sempre descritti meticolosamente, le situazioni sempre giustificate e le famiglie spesso davvero esistite <a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a>. Non essendo comunque questa la sede per un <em>excursus</em> sul realismo in Boccaccio, ci limitiamo a segnalare come l’obiettivo di Boccaccio non è documentaristico come potrebbe essere quello di un cronachista, ma letterario, e dunque la definizione a nostro parere più congrua è quella di Luigi Surdich, per il quale realismo realismo è</p>
+<blockquote>
+<p>nominare con puntualità i personaggi delle singole narrazioni <span>[</span>…<span>]</span> circostanziando nel maggior numero possibile di casi tempo storico, localizzazione, ambiente, e realismo è anche la motivata reticenza di cui si fa carico Filomena</p>
+<p><span class="citation"></span>.</p>
+</blockquote>
+<p>Surdich ha osservato, a proposito della seguente introduzione programmatica alla terza novella della terza giornata, che questo scrupolo di Filomena, apparentemente classificabile come «protesta frequente» <span class="citation"></span> o tutt’al più ascrivibile alla tradizione, in realtà andrebbe ricondotto proprio al realismo boccacciano, per il quale la censura sul nome dei protagonisti rivela il timore di un riconoscimento scomodo e imbarazzante da parte della brigata, il che sottolinea un’estrema volontà di rappresentazione del mondo contemporaneo da parte dell’autore:</p>
+<blockquote>
+<p>Nella nostra città, più d’inganni piena che d’amore o di fede, non sono ancora molti anni passati, fu una gentil donna di bellezze ornata e di costumi, d’altezza d’animo e di sottili avvedimenti quanto alcuna altra dalla natura dotata, il cui nome, né ancora alcuno altro che alla presente novella appartenga come che io gli sappia, non intendo di palesare, per ciò che ancora vivon di quegli che per questo si caricherebber di sdegno, dove di ciò sarebbe con risa da trapassare (III 3,5).</p>
+</blockquote>
+<p>Tuttavia, sarebbe forse ingenuo considerare questa reticenza di Filomena come realmente ispirata da fatti di cronaca: si tratta infatti di un realismo che fa ricorso «alla solidificazione dei pregiudizi e alla memoria culturale» <span class="citation"></span>. Bastino come esempi, per ora, la prassi fiorentina antica delle brigate, ricordata nella novella VI 9 di Guido Cavalacanti, la nomea delle brutte donne di Pisa (II 10) o ancora i percorsi mediterranei dei mercanti italiani ricalcati pedissequamente dalle rotte di Alatiel nella II 7: tutte queste occorrenze, insieme a molte altre, sono indicative di un realismo piuttosto teso all’edificazione di una storia credibile, anche alla luce egli obbiettivi narrativi che Boccaccio si pone. Decisamente esplicativa è, in questo senso, l’introduzione della quinta novella della nona giornata da parte di Fiammetta, che afferma:</p>
+<blockquote>
+<p>Se io dalla verità del fatto mi fossi scostare voluta o volessi, avrei ben saputo e saprei sotto altri nomi comporla e raccontarla; ma per ciò che il partirsi dalla verità delle cose state nel novellare è gran diminuire di diletto negl’intendenti, in propria forma, dalla ragion di sopra detta, la vi dirò (IX 5,5).</p>
+</blockquote>
+<p>Il <em>diletto degli intendenti</em> dunque, si profila come fine principale della narrazione del Boccaccio, che non si preoccupa, come invece avviene in opere erudite come ad esempio nel <em>De montibus</em> <span class="citation"></span>, di rispettare ad ogni costo l’aderenza alle fonti o alla realtà oggettiva e sperimentata (nel caso del trattato suddetto, più le prime che la seconda), ma piuttosto segue regole narrative proprie diletto (e della novella).</p>
+<p>La curiosità dell’autore nei confronti dell’alterità, soprattutto orientale, è stata stimolata anche da diversi accadimenti storici a cavallo dei secoli XIII e XIV: tra essi, possiamo ricordare l’incontro tra la civiltà cristiana e quella araba in Spagna e in Sicilia, le Crociate e i pellegrinaggi in Terra Santa, l’invasione e instaurazione dell’impero dei Mongoli <span class="citation"></span>. La bibliografia in merito è realmente vasta: tuttavia, se dovessimo segnalare i punti fermi della critica ai quali ci siamo affidati nel corso di tutto il lavoro, essi senza dubbio corrisponderebbero da una parte all’introduzione di Vittore Branca all’edizione Einaudi del <em>Decameron</em>, e dall’altra al capitolo <em>Le coordinate spazio-temporali del racconto</em> inserito da Alberto Asor Rosa nel suo saggio per la collana <em>Letteratura Italiana</em> pubblicata da Einaudi <span class="citation"></span>. Branca è stato il primo a sottolineare sia la centralità di Firenze (e la corrispondente declinazione delle zone geograficamente secondarie) che la caratterizzazione geolinguistica che contraddistingue determinati personaggi, per esempio a Venezia o a Siena. Asor Rosa, invece, ha fornito interessanti raggruppamenti schematici delle novelle a seconda del luogo di ambientazione, distinguendo questa in primaria e secondaria, e creando delle apposite categorie per Firenze, il quadro italiano e il mondo extranazionale. Inoltre, lo studioso in questione ha suggerito delle tabelle schematiche anche per le funzioni di viaggi, che sarà nostro interesse aggiornare con nuove definizioni. Un quadro geografico così vario come quello del Decameron comprova non solo l’ampiezza e la varietà del mondo nel quale il Boccaccio fa muovere e agire i personaggi delle sue cento novelle, ma anche gli interessi vivissimi, l’apertura mentale, l’efficienza e la vitalità che caratterizzano le loro azioni e i loro atteggiamenti.</p>
+<blockquote>
+<p>Questo vuol dire, in conclusione, che i luoghi geografici non sono meccaniche collocazioni dell’azione in un ambito qualsiasi determinato spazialmente, ma rappresentano dimensioni e simboli dell’immaginario, conformati in modo tale da cogliere ed esprimere le fantasie dell’autore. Ognuno dei luoghi boccacciani produce un proprio adeguato immaginario e orienta le soluzioni narrative conseguenti</p>
+</blockquote>
+<blockquote>
+<p><span class="citation"></span>.</p>
+</blockquote>
+<p>Ci sarebbe dunque, concretissimo, un rapporto tra le ambientazioni delle storie narrate dalla brigata e i suoi personaggi, come se i luoghi geografici influenzassero le azioni dei protagonisti? La risposta è duplice. Infatti, come si è constatato in un recente contributo a firma di chi scrive <span class="citation"></span>, è possibile creare un parallelismo strutturale tra l’astuzia dei personaggi e la città di Firenze, mentre dall’altra parte alcuni pregiudizi e inimicizie storico-politiche fanno sì che Venezia, Siena e altre realtà siano popolate da gente piuttosto sciocca. Questa visione geografica amplissima non contrasta affatto con la scelta di un centro costituito dalla Toscana e, in particolare, dalla succitata Firenze, che troneggia come ambientazione principale non solo in numerose novelle dell’opera, ma anche nella cornice stessa, proponendosi come l’alfa e l’omega geografico del Decameron, in un processo di <em>Ringkomposition</em> che spesso investe anche la maggior parte dei viaggi interni alle novelle <a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a>.</p>
+<p>Proprio i viaggi, soprattutto nella loro declinazione mediterranea e, per quel che può significare il concetto di Italia nella geografia medievale <a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a>, costituiscono un <em>fil rouge</em> che attraversa la raccolta boccacciana e che si pone ormai da tempo come oggetto privilegiato di attenzione critica. Perché dunque non prendere le mosse dalla proposta, avanzata da Giulio Ferroni, di una geocritica della letteratura, cioè di una disciplina che configuri</p>
+<blockquote>
+<p>una coscienza dello spazio, modi mentali di riconoscere e misurare la spazialità e la consistenza stessa dei luoghi, proiezioni e combinazioni che alterano la percezione dello spazio esterno <span>[</span>…<span>]</span> <em>laddove</em> lo spazio letterario può essere concepito anche come <span>[</span>…<span>]</span> una misura “altra dello spazio”</p>
+<p><span class="citation"></span></p>
+</blockquote>
+<p>Ferroni, poche righe dopo, sottolinea anche la mancanza di uno studio che illustri la diversa configurazione dei luoghi nelle grandi opere della letteratura italiana. Per quanto improba appaia a livello globale l’appello lanciato qui sopra, pensiamo che siano proprio le novelle di viaggio a poter costituire un punto di partenza per un’analisi narratologica degli spostamenti geografici diegetici a partire da dati reali. Come isolare dunque, sfuggendo a catalogazioni arbitrarie, le storie effettivamente impattanti dal punto di vista del viaggio e, non meno impellente, come selezionarle in maniera processabile computazionalmente? La visualizzazione grafica dei luoghi decameroniani e degli spostamenti diegetici all’interno delle storie è una delle sfide che ci poniamo a monte di questo studio. L’obiettivo, dunque, sarà quello di creare delle mappe coropletiche (cioè mappe tematiche in cui le aree sono diversamente colorate o graficamente rappresentate in modo da evidenziare i risultati di calcoli statistici effettuate su di esse), che illustrino i percorsi mediterranei (e non) dei protagonisti delle novelle. Il tutto attraverso strumenti automatici di processazione dei dati. Questa scelta di rappresentare graficamente sia i calcoli sia le rotte decameroniane risponde in primo luogo ad un’esigenza di chiarezza e comprensibilità da offrire al lettore anche non specializzato in ottica divulgativa, dall’altra vuole avvicinare la geografia letteraria e qualsiasi considerazione successiva intorno al valore morale dello spazio alle nuove discipline delle <em>digital humanities</em>, che prevedono la digitalizzazione di viaggi letterari su supporti informatici e la loro interrogabilità. La scelta di un tale approccio computazionale, che verrà sviscerato nel seguente capitolo, vuole porsi anche come un tentativo di interdisciplinarietà che vede nella riproducibilità e applicabilità dei modelli il suo punto di forza. Per quanto riguarda la scelta delle novelle,la proposta di classificazione di Asor Rosa è a questo proposito convincente, isolando egli un gruppo di storie, prevalentemente inserite nella seconda giornata, in cui «il viaggio ha un rapporto assolutamente intrinseco con la narrazione» <span class="citation"></span>. Secondo questa categoria, le novelle elette sarebbero: II 3 (i tre fratelli scialacquatori e il nipote Alessandro che sposerà la figlia del re d’Inghilterra); II 4 (Landolfo Rufolo); II 6 (madama Beritola); II 7 (Alatiel); II 8 (Il Conte d’Anguersa); II 9 (Zinevra e Bernabò); III 9 (Giletta di Nerbona e Beltramo), IV 3 (Tre giovani amano tre sorelle); V 1 (Cimone); V 2 (Gostanza e Martuccio); V 3 (Pietro Boccamazza e l’Agnolella); V 6 (Gian di Procida) e X 9 (Il Saladino e messer Torello). Tutti i protagonisti di queste storie sono, per i più svariati eventi della sorte, impegnati in un viaggio: ma solo alcuni di loro lo sperimentano come «barriera potenziale» ^<span>[</span>L’autore di questa definizione è Dmitrij S. Lichačëv, all’interno di <span class="citation"></span>, come «stupefacente metafora del vissuto» <span class="citation"></span>. Tuttavia, non tutte le novelle succitate si svolgono in ruoli “altri”. Rispettivamente, la storia di Beritola, quella di Pietro Boccamazza e quella di Gian di Procida rimangono all’interno dei confini nazionali, pur proponendo, tranne che nella V 3, spostamenti mediterranei. Tuttavia, se le peripezie di madonna Beritola saranno funzionali sia alla rappresentazione grafica degli spostamenti decameroniani, ormai uno degli obiettivi dichiarati di questo lavoro, sia per trarre conclusioni narratologiche (come si vedrà), ci sentiamo di escludere dal computo le novelle V 3 e V 6 le quali, pur basandosi su un viaggio, offrono itinerari troppo circoscritti per poter risultare esemplari. Ecco dunque che in rilievo, quasi spontaneamente, fa capolino la seconda giornata, nella quale, come già rilevato, il rapporto con il viaggio è essenzialmente intrinseco <span class="citation"></span>. Forti dei motivi di rappresentazione e riproducibilità suddetti, sarà dunque questa la porzione decameroniana oggetto delle analisi che seguono.</p>
+<h1 id="lapproccio-digitale-orizzonti-e-metodi">L’approccio digitale: orizzonti e metodi</h1>
+<ul>
+<li><p>Approccio quantitativo/ qualitativo.</p></li>
+<li><p>ASTRAZIONE: trasformare un testo in lista di vettori</p></li>
+<li><p>Come si fa una sottrazione tra coordinate?</p></li>
+<li><p>Metodo di lavoro: l’approccio computazionale. Quali sono i vantaggi e i metodi.</p></li>
+</ul>
+<h2 id="testi-corpora-dati">Testi, corpora, dati</h2>
+<h2 id="gli-strumenti-usati">Gli strumenti usati</h2>
+<h2 id="la-pipeline-di-lavoro">La pipeline di lavoro</h2>
+<h1 id="narratologia">Narratologia</h1>
+<ul>
+<li><p>Lo spostamento dei personaggi e/o della narrazione all’interno di una novella prevede direzioni più frequenti di altre? (es. est-ovest, nord-sud)</p></li>
+<li><p>Possiamo identificare delle tendenze migratorie nella seconda giornata?</p></li>
+<li><p>la seconda giornata è realmente una sequela di avventure e di migrazioni o potremmo piuttosto definirla un ben orchestrato gruppo di ritorni a casa?</p></li>
+<li><p>I personaggi che si allontanano di più dal luogo di partenza acquisiscono capacità come in un tradizionale <em>Bildungsroman</em> ? O piuttosto perdono le loro certezze a contatto con l’alterità?</p></li>
+<li><p>Limitatamente alla seconda giornata, possiamo stabilire se Boccaccio propone dei viaggi di pura avventura e <em>divertissement</em> o se sono applicabili delle prospettive metaforiche?</p></li>
+</ul>
+<h1 id="conclusioni">Conclusioni</h1>
+<h1 id="risorse">Risorse</h1>
+<h2 id="maps">Maps</h2>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0201.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0202.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0203.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0204.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0205.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0206.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0207.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0208.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0209.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<div class="figure">
+<img src="https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0210.png" alt="figure" />
+<p class="caption">figure</p>
+</div>
+<h1 id="temporaneo">Temporaneo</h1>
+<h2 id="roadmap">Roadmap</h2>
+<h3 id="objectives">Objectives</h3>
+<p>This research aims to investigate over a coherent way to extract geographical information in the narrative storytelling of Decameron 2nd day novelle by the perspective of the narration (extra-diegetic / fabula).</p>
+<h3 id="pipeline">Pipeline</h3>
+<p>Preliminary steps * <span>[</span>DONE<span>]</span> Collect the corpus in a textual form (e.g. liberliber) * <span>[</span>DONE<span>]</span> Clean the corpus * <span>[</span>DONE<span>]</span> Divide the corpus into partials (e.g. 0207.txt, 0203.txt namefile: NNnn.txt where NN=02) * Tools testing * <span>[</span>DONE<span>]</span> POS and Lemmatization correctness rate =&gt; UDPIPE wins</p>
+<h3 id="geographic-information">Geographic information</h3>
+<ul>
+<li><p><span>[</span>DONE<span>]</span> Use UDPIPE with the 10 subcorpora. Write the relative CONLL-U files of each partials</p></li>
+<li><p><span>[</span>DONE<span>]</span> Extract all the PROPN SP tokens for each partials</p></li>
+</ul>
+<p>Using R</p>
+<pre><code>    infile &lt;- read.csv(CONNLU)
+    df &lt;- infile[infile[,4] == &quot;PROPN&quot;, ]
+    write.csv(df, outfile)</code></pre>
+<p>(Using G Spreadsheet)</p>
+<pre><code>    =query({IMPORTRANGE(&quot;https://docs.google.com/spreadsheets/d/1Qh7mGzfW2ow8RzOniqO_-60JST6pbT71dfzaz_GtV0k&quot;;&quot;prova!A1:J15000&quot;)}; &quot;SELECT * WHERE Col5 CONTAINS&#39;SP&#39;&quot;;0)</code></pre>
+<h2 id="merge-the-various-csv">Merge the various csv</h2>
+<p>All the csv in the folder are merged into a total one. Alphabetically ordered</p>
+<pre><code>mlr --csv --rs lf --csv sort -f date,code *.csv &gt; total/final.csv</code></pre>
+<ul>
+<li><p>The given spreadsheets yields for a list of items of PNs. Order the list alphabetically. Insert a manual column where the token is standardized and give the relevant coords:</p></li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Item</th>
+<th align="left">Std</th>
+<th align="left">Long</th>
+<th align="left">Lat</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Vinegia</td>
+<td align="left">Venezia</td>
+<td align="left">45.4042008</td>
+<td align="left">12.1015609</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p>Don’t delete PNs which are not strictly relevant to the actual recognition: they serve as tools for tracing out the correctness rate or other info.</p></li>
+<li><p>Give parallel spreadsheets for each partials which yields a structured array of PNs in texts. When merged with the previous one, it will results for 3 columns of each term: the ones which have coords field are the locations</p></li>
+<li><p>Add a manual field to the spreadsheet which explicits the actors of that location</p></li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Item</th>
+<th align="left">Std</th>
+<th align="left">Long</th>
+<th align="left">Lat</th>
+<th align="left">Actor</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Vinegia</td>
+<td align="left">Venezia</td>
+<td align="left">45.4042008</td>
+<td align="left">12.1015609</td>
+<td align="left">Buffalmacco</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p>Plot locations in map</p></li>
+<li><p>Use the frequency list for the whole day</p></li>
+</ul>
+<h2 id="questions">Questions</h2>
+<ul>
+<li><p>Lo spostamento dei personaggi e/o della narrazione all’interno di una novella prevede direzioni più frequenti di altre? (es. est-ovest, nord-sud)</p></li>
+<li><p>Quali le conseguenze narratologiche e morali di uno spostamento?</p></li>
+<li><p>Possiamo identificare delle tendenze migratorie nella seconda giornata?</p></li>
+</ul>
+<h2 id="note">Note</h2>
+<ul>
+<li><p>Standardizzazione 17.7:</p></li>
+<li><p>I “Castel” è da contestualizzare</p></li>
+<li><p>II “Grignano” non lo so</p></li>
+<li><p>III “Ruga” e “Catalana” valgono come un luogo (Napoli</p></li>
+<li><p>IV “Cresci” e “Valcava” calgono come un luogo (Borgo S. Lorenzo)</p></li>
+</ul>
+<p>prova marco</p>
+<p><a href="https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/index.md">EDIT FILE</a></p>
+<h1 id="nuove-prospettive-per-lo-studio-della-toponomastica-nel-decameron">Nuove prospettive per lo studio della toponomastica nel Decameron</h1>
+<p><strong>Marcello Bolpagni</strong>, <strong>Marco Petolicchio</strong></p>
+<ul>
+<li><p>Dept. of General Linguistics, Palacky University Olomouc; marcello.bolpagni@gmail.com</p></li>
+<li><p>Dept. of Romance Languages, Palacky University Olomouc; marco.petolicchio01@upol.cz; ORCID: 0000-0001-7017-7862</p></li>
+</ul>
+<h2 id="struttura">Struttura</h2>
+<ul>
+<li><p><a href="https://olablit2.github.io/geoBoccaccio/2018-article/05-preface">Prefazione</a></p></li>
+<li><p><a href="https://olablit2.github.io/geoBoccaccio/2018-article/10-introduction">Introduzione</a></p></li>
+<li><p><a href="https://olablit2.github.io/geoBoccaccio/2018-article/20-chapter1">Ch.1</a></p></li>
+<li><p><a href="https://olablit2.github.io/geoBoccaccio/2018-article/30-chapter2">Ch.2</a></p></li>
+<li><p><a href="https://olablit2.github.io/geoBoccaccio/2018-article/40-chapter3">Ch.3</a></p></li>
+<li><p><a href="https://olablit2.github.io/geoBoccaccio/2018-article/50-chapter4">Ch.4</a></p></li>
+<li><p><a href="https://olablit2.github.io/geoBoccaccio/2018-article/90-conclusion">Conclusioni</a></p></li>
+<li><p><a href="https://olablit2.github.io/geoBoccaccio/2018-article/99-roadmap">Roadmap</a></p></li>
+<li><p>Files</p>
+<ul>
+<li><p><a href="https://olablit2.github.io/geoBoccaccio/2018-article/95-maps">Mappe</a></p></li>
+</ul></li>
+</ul>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Ove non diversamente indicato, l’edizione decameroniana di riferimento è stata, per tutte le citazioni di questo articolo, la seguente <span class="citation"></span>. La citazione in corpo al testo segue il modello giornata (in numero romano), novella e, dove necessario, paragrafo<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>Per un approfondimento più esauriente sulle suggestioni, le fonti letterarie, il materiale geografico circolante nel Trecento e le opere coeve di Boccaccio, rimandiamo anche a <span class="citation"></span> e in particolare alle pp. 16-36<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>Proprio la II giornata, così peculiare e polare nelle sue peregrinazione attraverso il <em>Mare Nostrum</em> sarà la protagonista di questo studio. Un’analisi narratologica basata sui metodi di ricognizione geografici automatici proposti nel prossimo capitolo verrà svolta in conclusione<a href="#fnref3">↩</a></p></li>
+<li id="fn4"><p>Per uno studio fondamentale dell’empirismo ideologico e del realismo artistico di Boccaccio, cfr. <span class="citation"></span>. È una narrativa che spalanca le porte del realismo all’Occidente e che «tocca le radici dell’esperienza» <span class="citation"></span><a href="#fnref4">↩</a></p></li>
+<li id="fn5"><p>Per un contributo dettagliato e aggiornato della distribuzione dei luoghi nelle varie novelle del <em>Decameron</em> vd. <span class="citation"></span>. Tuttavia, non dimentichiamo che la relatività della visione è d’obbligo: cfr. il contributo succitato di A. Asor Rosa, che sottolinea invece l’importanza delle settanta novelle extratoscane della raccolta da una parte, e l’esclusione pressoché totale di Firenze dagli esempi di virtù della decima giornata<a href="#fnref5">↩</a></p></li>
+<li id="fn6"><p>È saggio tenere presente che, almeno fino al XV secolo, la geografia medievale non si caratterizza, come quella moderna, per una dimensione temporale di lunga durata: essa è immutabile, e provvidenziale, e si basa piuttosto su una continua allegoria per la quale lo spazio fisico rimanda a quello della fede, che lo contiene, limita e conferma. Questo significa che viaggiatori come Guglielmo di Rubruck, Odorico da Pordnenone e lo stesso Marco Polo si preoccupavano piuttosto di ritrovare negli spazi che scoprivano luoghi o popoli citati dal Pentateuco o dai libri storici della Bibbia o dai profeti. Dall’altra parte però, l’interesse verso il mondo orientale era stato preparato anche da quella tendenza culturale comunemente chiamata <em>translatio studii</em>. Si tratta in sostanza dello slittamento storico dall’est all’ovest dei centri di potere e di sapere: tra le opere tradotte in latino a partire dal XII secolo, ricordiamo il Corano a cura di Pietro il Venerabile, la traduzione in francese del <em>Roman de Mahomet</em> negli anni 1250-1260 da parte del chierico Alexandre du Pont e, nello stesso periodo, l’anonima versione latina dell’<em>Historia orientalis</em> del vescovo di Acri Giacomo di Vitry<a href="#fnref6">↩</a></p></li>
+</ol>
+</div>
+</body>
+</html>

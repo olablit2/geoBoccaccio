@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.4.22)  31 JUL 2018 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.4.22)  2 AUG 2018 12:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -795,22 +795,22 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Info: Redefining \it@ocap on input line 26.
-LaTeX Info: Redefining \it@ccap on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Info: Redefining \it@ocap on input line 27.
+LaTeX Info: Redefining \it@ccap on input line 27.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -819,8 +819,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 26.
-Package biblatex Info: Reference segment=0 on input line 26.
+Package biblatex Info: Reference section=0 on input line 27.
+Package biblatex Info: Reference segment=0 on input line 27.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -853,7 +853,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 27.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -863,56 +863,63 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count304
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 35.
+(Font)              <12> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 35.
+(Font)              <8> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 35.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 35.
+(Font)              <6> on input line 39.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 9.
-)
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./body.tex
+ [2] (./body.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 45.
+(Font)              <9> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 45.
- [2] [3] [4] [5]
-[6] [7]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 351.
+(Font)              <5> on input line 36.
+ [3] [4] [5]
+[6] [7] [8]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 348.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 351.
-
-Overfull \hbox (2.02242pt too wide) in paragraph at lines 359--359
-[]\T1/cmr/bx/n/12 Metodo di la-vo-ro: l'ap-proc-cio com-pu-ta-zio-na-le. Qua-
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 348.
+ [9]
+[10]
+Underfull \vbox (badness 10000) detected at line 438
  []
 
-[8]
+<../charts/correctnessLib-Lemma.png, id=247, 602.25pt x 372.39125pt>
+File: ../charts/correctnessLib-Lemma.png Graphic file (type png)
+<use ../charts/correctnessLib-Lemma.png>
+Package pdftex.def Info: ../charts/correctnessLib-Lemma.png  used on input line
+ 450. on input line 450.
+Package pdftex.def Info: Requested size: 251.9989pt x 155.81798pt on input line
+ 450.
+[11 <../charts/correctnessLib-Lemma.png (PNG copy)>]
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0201.png' not found on input line 401.
+ut/maps/0201.png' not found on input line 490.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -922,12 +929,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.401 ...caccio/raw/master/data/out/maps/0201.png}
+l.490 ...caccio/raw/master/data/out/maps/0201.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0202.png' not found on input line 407.
+ut/maps/0202.png' not found on input line 496.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -937,12 +944,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.407 ...caccio/raw/master/data/out/maps/0202.png}
+l.496 ...caccio/raw/master/data/out/maps/0202.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0203.png' not found on input line 413.
+ut/maps/0203.png' not found on input line 502.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -952,12 +959,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.413 ...caccio/raw/master/data/out/maps/0203.png}
+l.502 ...caccio/raw/master/data/out/maps/0203.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0204.png' not found on input line 419.
+ut/maps/0204.png' not found on input line 508.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -967,12 +974,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.419 ...caccio/raw/master/data/out/maps/0204.png}
+l.508 ...caccio/raw/master/data/out/maps/0204.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0205.png' not found on input line 425.
+ut/maps/0205.png' not found on input line 514.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -982,12 +989,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.425 ...caccio/raw/master/data/out/maps/0205.png}
+l.514 ...caccio/raw/master/data/out/maps/0205.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0206.png' not found on input line 431.
+ut/maps/0206.png' not found on input line 520.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -997,12 +1004,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.431 ...caccio/raw/master/data/out/maps/0206.png}
+l.520 ...caccio/raw/master/data/out/maps/0206.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0207.png' not found on input line 437.
+ut/maps/0207.png' not found on input line 526.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -1012,12 +1019,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.437 ...caccio/raw/master/data/out/maps/0207.png}
+l.526 ...caccio/raw/master/data/out/maps/0207.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0208.png' not found on input line 443.
+ut/maps/0208.png' not found on input line 532.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -1027,12 +1034,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.443 ...caccio/raw/master/data/out/maps/0208.png}
+l.532 ...caccio/raw/master/data/out/maps/0208.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0209.png' not found on input line 449.
+ut/maps/0209.png' not found on input line 538.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -1042,12 +1049,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.449 ...caccio/raw/master/data/out/maps/0209.png}
+l.538 ...caccio/raw/master/data/out/maps/0209.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0210.png' not found on input line 455.
+ut/maps/0210.png' not found on input line 544.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -1057,23 +1064,23 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.455 ...caccio/raw/master/data/out/maps/0210.png}
+l.544 ...caccio/raw/master/data/out/maps/0210.png}
                                                   
 ? 
-[9] [10]
-Overfull \hbox (590.60632pt too wide) in paragraph at lines 503--503
+[12] [13] [14]
+Overfull \hbox (590.60632pt too wide) in paragraph at lines 591--591
 []    \T1/cmtt/m/n/10.95 =query({IMPORTRANGE("https://docs.google.com/spreadshe
 ets/d/1Qh7mGzfW2ow8RzOniqO_-60JST6pbT71dfzaz_GtV0k";"prova!A1:J15000")}; "SELEC
 T * WHERE Col5 CONTAINS'SP'";0)[] 
  []
 
-[11]
-Overfull \hbox (7.79411pt too wide) in paragraph at lines 512--512
+
+Overfull \hbox (7.79411pt too wide) in paragraph at lines 600--600
 []\T1/cmtt/m/n/10.95 mlr --csv --rs lf --csv sort -f date,code *.csv > total/fi
 nal.csv[] 
  []
 
-[12])
+[15] [16])
 
 ! Package inputenc Error: Unicode char ́ (U+301)
 (inputenc)                not set up for use with LaTeX.
@@ -1082,27 +1089,27 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 \end
+l.45 \end
          {document}
 ? 
-[13] [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
- [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+[17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 183620CCB1F973950050B7A68F3B5B4C;1303.
+(rerunfilecheck)             Checksum: 7668E571B18BF544C784B2F9C7EEE89C;1508.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12734 strings out of 492990
- 207707 string characters out of 6135005
- 652472 words of memory out of 5000000
- 16051 multiletter control sequences out of 15000+600000
+ 12803 strings out of 492990
+ 208954 string characters out of 6135005
+ 652951 words of memory out of 5000000
+ 16100 multiletter control sequences out of 15000+600000
  18580 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,8n,58p,765b,1878s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1119,10 +1126,10 @@ sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb></usr/s
 hare/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sftt1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 ftt1200.pfb>
-Output written on main.pdf (15 pages, 353970 bytes).
+Output written on main.pdf (18 pages, 386336 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
- 313 compressed objects within 4 object streams
- 71 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 380 PDF objects out of 1000 (max. 8388607)
+ 340 compressed objects within 4 object streams
+ 88 named destinations out of 1000 (max. 500000)
+ 198 words of extra memory for PDF output out of 10000 (max. 10000000)
 

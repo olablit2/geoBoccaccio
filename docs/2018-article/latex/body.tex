@@ -1,6 +1,3 @@
-\href{https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/05-preface.md}{EDIT
-FILE}
-
 \section{Prefazione}\label{prefazione}
 
 \subsection{Abstract}\label{abstract}
@@ -18,13 +15,7 @@ computational linguistics; reproducible research;
 Progetto parzialmente finanziato grazie al grant XXX dell'Università
 YYY.
 
-\href{https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/10-introduction.md}{EDIT
-FILE}
-
-\subsection{Introduzione}\label{introduzione}
-
-\href{https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/20-chapter1.md}{EDIT
-FILE}
+\section{Introduzione}\label{introduzione}
 
 \section{Brevi note sullo stato dell'arte nella geografia del
 Decameron}\label{brevi-note-sullo-stato-dellarte-nella-geografia-del-decameron}
@@ -91,7 +82,9 @@ spazio sociale è
 \begin{quote}
 l'incontro, l'unione, la simultaneità {[}\ldots{}{]} tutto ciò che è
 prodotto dalla natura e dalla società {[}\ldots{}{]} esseri viventi,
-cose, oggetti, opere, segni e simboli \autocite[p.116]{lefebvre1978}
+cose, oggetti, opere, segni e simboli
+
+\autocite[p.116]{lefebvre1978}
 \end{quote}
 
 Si può affrontare dunque uno spazio di viaggio avventuroso nel
@@ -128,6 +121,7 @@ nominare con puntualità i personaggi delle singole narrazioni
 {[}\ldots{}{]} circostanziando nel maggior numero possibile di casi
 tempo storico, localizzazione, ambiente, e realismo è anche la motivata
 reticenza di cui si fa carico Filomena
+
 \autocite[p.~96]{surdich2008boccaccio}.
 \end{quote}
 
@@ -218,6 +212,9 @@ spazialmente, ma rappresentano dimensioni e simboli dell'immaginario,
 conformati in modo tale da cogliere ed esprimere le fantasie
 dell'autore. Ognuno dei luoghi boccacciani produce un proprio adeguato
 immaginario e orienta le soluzioni narrative conseguenti
+\end{quote}
+
+\begin{quote}
 \autocite[p.~548]{asor1992}.
 \end{quote}
 
@@ -276,8 +273,9 @@ una coscienza dello spazio, modi mentali di riconoscere e misurare la
 spazialità e la consistenza stessa dei luoghi, proiezioni e combinazioni
 che alterano la percezione dello spazio esterno {[}\ldots{}{]}
 \emph{laddove} lo spazio letterario può essere concepito anche come
-{[}\ldots{}{]} una misura ``altra dello
-spazio''\autocite[p.~90]{ferroni2012}
+{[}\ldots{}{]} una misura ``altra dello spazio''
+
+\autocite[p.~90]{ferroni2012}
 \end{quote}
 
 Ferroni, poche righe dopo, sottolinea anche la mancanza di uno studio
@@ -341,32 +339,122 @@ già rilevato, il rapporto con il viaggio è essenzialmente intrinseco
 riproducibilità suddetti, sarà dunque questa la porzione decameroniana
 oggetto delle analisi che seguono.
 
-\href{https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/30-chapter2.md}{EDIT
-FILE}
-
-\subsection{Capitolo 2}\label{capitolo-2}
+\section{L'approccio digitale: orizzonti e
+metodi}\label{lapproccio-digitale-orizzonti-e-metodi}
 
 \begin{itemize}
+\tightlist
 \item
   Approccio quantitativo/ qualitativo.
 \item
   ASTRAZIONE: trasformare un testo in lista di vettori
 \item
   Come si fa una sottrazione tra coordinate?
-\item ~
-  \subsection{Metodo di lavoro: l'approccio computazionale. Quali sono i
-  vantaggi e i
-  metodi.}\label{metodo-di-lavoro-lapproccio-computazionale.-quali-sono-i-vantaggi-e-i-metodi.}
-
-  author: marcello
+\item
+  Metodo di lavoro: l'approccio computazionale. Quali sono i vantaggi e
+  i metodi.
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\subsection{Testi, corpora, dati}\label{testi-corpora-dati}
 
-\href{https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/40-chapter3.md}{EDIT
-FILE}
+\autocite{owens2011}
 
-\subsection{Narratologia}\label{narratologia}
+bla
+
+\autocite{moretti2005}
+
+\subsection{Gli strumenti usati}\label{gli-strumenti-usati}
+
+L'indagine preliminare ha previsto l'estrazione di una porzione iniziale
+del testo dell'opera, usata come \emph{campione d'indagine} per testare
+la validità e la correttezza degli strumenti informatici a disposizione
+in rapporto con i risultati attesi e lo stile linguistico del testo in
+esame\footnote{Risulta necessario sottolineare, e lo faremo in maniera
+  più esplicita nel corso dell'articolo, quanto l'uso di software e
+  librerie designate per l'analisi del linguaggio odierno possa creare
+  delle problematicità evidenti se riferite a testi antichi.}. Tale
+campione estratto dal proemio alla prima giornata --di per sé non
+rappresentativo-- consta di 267 parole nell'edizione di riferimento ed i
+suoi confini sono rappresentati dalle espressioni: ``\emph{Umana
+cosa}'', ``\emph{guisa che sol di sé}''\footnote{Le analisi sono state
+  effettuate su laptop equipaggiato con processore Intel(R) Core(TM) I5
+  M480 2.67GHz 64bit, 8GB RAM DDR3, OS: Linux Lubuntu 17.10, HD 1TB
+  5400rpm; compilatori per diversi linguaggi, tra cui Python e R.}.
+
+La prima operazione è stata quella di rintracciare gli strumenti
+informatici che meglio potessero supportare le operazioni necessarie
+all'estrazione delle informazioni necessarie ai fini dell'analisi in
+oggetto. Le alternative principali che abbiamo valutato sono
+rappresentate da 4 tool di trattamento automatico del linguaggio
+(\emph{Natural Language Processing} (NLP)), che andremo a discutere di
+seguito:
+
+\begin{itemize}
+\item
+  UDPipe \autocite{udpipe2017}\\
+  Elaborato presso l'Università di Praga, UDPipe è un tool versatile che
+  permette l'annotazione, il tagging, la lemmatizzazione e il parsing
+  delle dipendenze sintattiche del documento, attraverso il caricamento
+  di appositi dataset elaborati nella lingua-modello. Rilasciato con
+  licenza aperta Mozilla Public License 2.0, accoglie nativamente la
+  possibilità di lettura ed esportazione di file in formato standard
+  CoNLL-U; è disponibile per Linux/ Windows/ OS X, come libreria per
+  C++, Python, Perl, Java, C\#, R e come servizio web. Nella presente
+  analisi è stato utilizzato come libreria per ambiente R.
+\item
+  ITALIAN NLP\\
+  Interfaccia Web
+\item
+  TreeTagger \autocite{schmid1994b}\\
+  TreeTagger è un tagger di tipo probabilistico, disponibile per
+  Windows/ Linux/ OS X e con contenitori per differenti ambienti --R,
+  Python, Java-- e come applicazione standalone per Windows. La pipeline
+  mostra un parser ed una serie di \emph{modelli} di lingua da caricare
+  nel motore per performare le analisi. Lo abbiamo utilizzato grazie
+  all'agevole interfaccia web messa a disposizione dall'Università degli
+  Studi di Perugia.
+\item
+  PATTERN \autocite{pattern2012}\\
+  Specificatamente pensato per il \emph{mining} di informazioni dal Web,
+  prevede uno scraper di informazioni dalla DOM delle pagine HTML per
+  l'estrazione del testo. Permette di avviare indagini di sentiment
+  analysis, oltre alle operazioni più classiche di lemmatizzazione e
+  POS-tagging; è disponibile per ambiente Python.
+\end{itemize}
+
+Si è proceduto dunque con l'operazione di lemmatizzazione automatica,
+comparando i vari tool. In questo modo le singole parole del testo, o
+\emph{tokens}, vengono ricondotte dalla loro forma al lemma
+corrispondente. La tabella seguente mostra il tasso di uguaglianza tra i
+tool in termini assoluti sulle 267 forme:
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+& ITALIAN NLP & TT(UniPG) & PATTERN\tabularnewline
+UDPIPE & 240 & 203 & 223\tabularnewline
+ITALIAN NLP & & 219 & 231\tabularnewline
+TT(UniPG) & & & 198\tabularnewline
+\bottomrule
+\end{longtable}
+
+Successivamente si è optata la scelta della valutazione manuale della
+correttezza dei tool, al fine di determinare quale tra gli strumenti in
+esame potesse meglio adattarsi all'analisi del documento in oggetto. La
+valutazione manuale, riportata di seguito, è stata elaborata sotto forma
+di percentuale rispetto al totale del campione, e vede UDPipe come
+quello che più fedelmente si è avvicinato ad un livello compatibile con
+i risultati attesi, sebbene la difficoltà di un testo antico.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.70000\textwidth]{../charts/correctnessLib-Lemma.png}
+\caption{Grafico di comparazione della correttezza dei lemmi
+riconosciuti automaticamente}
+\end{figure}
+
+\subsection{La pipeline di lavoro}\label{la-pipeline-di-lavoro}
+
+\section{Narratologia}\label{narratologia}
 
 \begin{itemize}
 \tightlist
@@ -391,8 +479,9 @@ FILE}
   applicabili delle prospettive metaforiche?
 \end{itemize}
 
-\href{https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/90-conclusion.md}{EDIT
-FILE}
+\section{Conclusioni}\label{conclusioni}
+
+\section{Risorse}\label{risorse}
 
 \subsection{Maps}\label{maps}
 
@@ -456,8 +545,7 @@ FILE}
 \caption{figure}
 \end{figure}
 
-\href{https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/99-roadmap.md}{EDIT
-FILE}
+\section{Temporaneo}\label{temporaneo}
 
 \subsection{Roadmap}\label{roadmap}
 

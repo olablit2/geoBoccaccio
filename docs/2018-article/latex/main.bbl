@@ -44,10 +44,10 @@
     \endentry
     \entry{battaglia1993}{book}{}
       \name{author}{2}{}{%
-        {{uniquename=0,hash=8f911cf2c5688eb48988c3449a253661}{%
+        {{uniquename=0,hash=0f4a75a0c3d5090bfcf28d2a099e6ca3}{%
            family={Battaglia},
            familyi={B\bibinitperiod},
-           given={S.},
+           given={Salvatore},
            giveni={S\bibinitperiod}}}%
         {{uniquename=0,hash=5af449d3a7b81742014a24ce71464ca2}{%
            family={Russo},
@@ -58,10 +58,10 @@
       \list{publisher}{1}{%
         {Liguori}%
       }
-      \strng{namehash}{2ae67424eb1590731106bc5815a54b01}
-      \strng{fullhash}{2ae67424eb1590731106bc5815a54b01}
-      \strng{authornamehash}{2ae67424eb1590731106bc5815a54b01}
-      \strng{authorfullhash}{2ae67424eb1590731106bc5815a54b01}
+      \strng{namehash}{20265b5d875c22153ec593b666c372fa}
+      \strng{fullhash}{20265b5d875c22153ec593b666c372fa}
+      \strng{authornamehash}{20265b5d875c22153ec593b666c372fa}
+      \strng{authorfullhash}{20265b5d875c22153ec593b666c372fa}
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{year}
@@ -77,19 +77,19 @@
     \endentry
     \entry{1966decameron}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=2,hash=b363174c12dc68b2cdcd6d8faf04635d}{%
+        {{uniquename=0,hash=524f6bb46346bed549f49127cb7286cb}{%
            family={Boccaccio},
            familyi={B\bibinitperiod},
-           given={G.},
+           given={Giovanni},
            giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Laterza}%
       }
-      \strng{namehash}{b363174c12dc68b2cdcd6d8faf04635d}
-      \strng{fullhash}{b363174c12dc68b2cdcd6d8faf04635d}
-      \strng{authornamehash}{b363174c12dc68b2cdcd6d8faf04635d}
-      \strng{authorfullhash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \strng{namehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{fullhash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authornamehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authorfullhash}{524f6bb46346bed549f49127cb7286cb}
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{year}
@@ -102,12 +102,82 @@
       \verb https://books.google.it/books?id=KGa0tAEACAAJ
       \endverb
     \endentry
-    \entry{boccaccio2013decameron}{book}{}
+    \entry{brancadecameron}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=2,hash=b363174c12dc68b2cdcd6d8faf04635d}{%
+        {{uniquename=0,hash=524f6bb46346bed549f49127cb7286cb}{%
            family={Boccaccio},
            familyi={B\bibinitperiod},
-           given={G.},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Einaudi}%
+      }
+      \strng{namehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{fullhash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authornamehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authorfullhash}{524f6bb46346bed549f49127cb7286cb}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decameron}
+      \field{year}{1992}
+    \endentry
+    \entry{demontibus}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=524f6bb46346bed549f49127cb7286cb}{%
+           family={Boccaccio},
+           familyi={B\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=5612a13d941637deb6602b4c8ddfd24a}{%
+           family={Branca},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3f1497ceb7aa8a32038e9d59893f55b8}{%
+           family={Zaccaria},
+           familyi={Z\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=08c1744aa684931dbd741866766fb6a8}{%
+           family={Stocchi},
+           familyi={S\bibinitperiod},
+           given={M.P.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Arnoldo Mondadori}%
+      }
+      \strng{namehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{fullhash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authornamehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authorfullhash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{editornamehash}{fc24889e8c48d181f1d8f3c551d1ed8e}
+      \strng{editorfullhash}{fc24889e8c48d181f1d8f3c551d1ed8e}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{sv. 2,sv. 7--8}
+      \field{series}{I Classici Mondadori}
+      \field{title}{Tutte le opere di Giovanni Boccaccio: De montibus, silvis, fontibus, lacubus, fluminibus, stagnis seu paludibus et de diversis nominibus maris. Genealogie deorum gentilium}
+      \field{year}{1998}
+      \verb{url}
+      \verb https://books.google.cz/books?id=FMT%5C_sgEACAAJ
+      \endverb
+    \endentry
+    \entry{boccaccio2013decameron}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=524f6bb46346bed549f49127cb7286cb}{%
+           family={Boccaccio},
+           familyi={B\bibinitperiod},
+           given={Giovanni},
            giveni={G\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
@@ -130,10 +200,10 @@
       \list{publisher}{1}{%
         {Bureau}%
       }
-      \strng{namehash}{b363174c12dc68b2cdcd6d8faf04635d}
-      \strng{fullhash}{b363174c12dc68b2cdcd6d8faf04635d}
-      \strng{authornamehash}{b363174c12dc68b2cdcd6d8faf04635d}
-      \strng{authorfullhash}{b363174c12dc68b2cdcd6d8faf04635d}
+      \strng{namehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{fullhash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authornamehash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{authorfullhash}{524f6bb46346bed549f49127cb7286cb}
       \strng{editornamehash}{f8c9f355ad85821fd911f6459636cbb2}
       \strng{editorfullhash}{f8c9f355ad85821fd911f6459636cbb2}
       \field{sortinit}{B}
@@ -147,72 +217,6 @@
       \field{year}{2013}
       \verb{url}
       \verb https://books.google.it/books?id=aAifzeIhlX8C
-      \endverb
-    \endentry
-    \entry{brancadecameron}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=2,hash=524f6bb46346bed549f49127cb7286cb}{%
-           family={Boccaccio},
-           familyi={B\bibinitperiod},
-           given={Giovanni},
-           giveni={G\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Einaudi}%
-      }
-      \strng{namehash}{524f6bb46346bed549f49127cb7286cb}
-      \strng{fullhash}{524f6bb46346bed549f49127cb7286cb}
-      \strng{authornamehash}{524f6bb46346bed549f49127cb7286cb}
-      \strng{authorfullhash}{524f6bb46346bed549f49127cb7286cb}
-      \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Decameron}
-      \field{year}{1992}
-    \endentry
-    \entry{demontibus}{book}{}
-      \name{author}{4}{uniquelist=1}{%
-        {{uniquename=2,hash=b363174c12dc68b2cdcd6d8faf04635d}{%
-           family={Boccaccio},
-           familyi={B\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod}}}%
-        {{uniquename=0,hash=5612a13d941637deb6602b4c8ddfd24a}{%
-           family={Branca},
-           familyi={B\bibinitperiod},
-           given={V.},
-           giveni={V\bibinitperiod}}}%
-        {{uniquename=0,hash=3f1497ceb7aa8a32038e9d59893f55b8}{%
-           family={Zaccaria},
-           familyi={Z\bibinitperiod},
-           given={V.},
-           giveni={V\bibinitperiod}}}%
-        {{uniquename=0,hash=08c1744aa684931dbd741866766fb6a8}{%
-           family={Stocchi},
-           familyi={S\bibinitperiod},
-           given={M.P.},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Arnoldo Mondadori}%
-      }
-      \strng{namehash}{b28c5a642ab49f682788e9e2d1b1927f}
-      \strng{fullhash}{d9575fe0502d47c5a38492df9b8860ce}
-      \strng{authornamehash}{b28c5a642ab49f682788e9e2d1b1927f}
-      \strng{authorfullhash}{d9575fe0502d47c5a38492df9b8860ce}
-      \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{number}{sv. 2,sv. 7--8}
-      \field{series}{I Classici Mondadori}
-      \field{title}{Tutte le opere di Giovanni Boccaccio: De montibus, silvis, fontibus, lacubus, fluminibus, stagnis seu paludibus et de diversis nominibus maris. Genealogie deorum gentilium}
-      \field{year}{1998}
-      \verb{url}
-      \verb https://books.google.cz/books?id=FMT%5C_sgEACAAJ
       \endverb
     \endentry
     \entry{bolpagni2016}{book}{}
@@ -302,27 +306,66 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Rivista di letteratura italiana}
       \field{number}{3}
-      \field{title}{Postilla sulla geografia del" Decameron"}
+      \field{title}{Postilla sulla geografia del "Decameron"}
       \field{volume}{20}
       \field{year}{2002}
       \field{pages}{1000\bibrangedash 1014}
       \range{pages}{15}
     \endentry
+    \entry{pattern2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=228232ebcc92016d11200def64fb561b}{%
+           family={De\bibnamedelima Smedt},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=de80d83604a86dc9aff51ca1ce3069e6}{%
+           family={Daelemans},
+           familyi={D\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JMLR.org}%
+      }
+      \strng{namehash}{d7cc0613ff354246bb6239513e63a270}
+      \strng{fullhash}{d7cc0613ff354246bb6239513e63a270}
+      \strng{authornamehash}{d7cc0613ff354246bb6239513e63a270}
+      \strng{authorfullhash}{d7cc0613ff354246bb6239513e63a270}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1532-4435}
+      \field{journaltitle}{J. Mach. Learn. Res.}
+      \field{month}{6}
+      \field{number}{1}
+      \field{title}{Pattern for Python}
+      \field{volume}{13}
+      \field{year}{2012}
+      \field{pages}{2063\bibrangedash 2067}
+      \range{pages}{5}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2503308.2343710
+      \endverb
+      \keyw{data mining,graph networks,machine learning,natural language processing,python}
+    \endentry
     \entry{ferroni2012}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=390917b9ef184d663bec782f39d97f8c}{%
+        {{uniquename=0,hash=2bc4ad950ad78ad9deffcba78581d77c}{%
            family={Ferroni},
            familyi={F\bibinitperiod},
-           given={G.},
+           given={Giulio},
            giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Editori Laterza}%
       }
-      \strng{namehash}{390917b9ef184d663bec782f39d97f8c}
-      \strng{fullhash}{390917b9ef184d663bec782f39d97f8c}
-      \strng{authornamehash}{390917b9ef184d663bec782f39d97f8c}
-      \strng{authorfullhash}{390917b9ef184d663bec782f39d97f8c}
+      \strng{namehash}{2bc4ad950ad78ad9deffcba78581d77c}
+      \strng{fullhash}{2bc4ad950ad78ad9deffcba78581d77c}
+      \strng{authornamehash}{2bc4ad950ad78ad9deffcba78581d77c}
+      \strng{authorfullhash}{2bc4ad950ad78ad9deffcba78581d77c}
       \field{sortinit}{F}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labeldatesource}{year}
@@ -427,6 +470,31 @@
       \field{title}{Ricerche semiotiche: nuove tendenze delle scienze umane nell'URSS}
       \field{year}{1973}
     \endentry
+    \entry{moretti2005}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=60e0776eab9ad2bb3da78fa156996838}{%
+           family={Moretti},
+           familyi={M\bibinitperiod},
+           given={Franco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{60e0776eab9ad2bb3da78fa156996838}
+      \strng{fullhash}{60e0776eab9ad2bb3da78fa156996838}
+      \strng{authornamehash}{60e0776eab9ad2bb3da78fa156996838}
+      \strng{authorfullhash}{60e0776eab9ad2bb3da78fa156996838}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{isbn}{1844670260,9781844670260}
+      \field{title}{Graphs, maps, trees: abstract models for a literary history}
+      \field{year}{2005}
+    \endentry
     \entry{morosini2010boccaccio}{book}{}
       \name{author}{2}{}{%
         {{uniquename=0,hash=daf28d5bbe303591db322551e8f79bee}{%
@@ -458,6 +526,98 @@
       \field{year}{2010}
       \verb{url}
       \verb https://books.google.cz/books?id=MwK%5C_sxilYV0C
+      \endverb
+    \endentry
+    \entry{owens2011}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a5ff83dd479a244a5038176aea2215d5}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5ff83dd479a244a5038176aea2215d5}
+      \strng{fullhash}{a5ff83dd479a244a5038176aea2215d5}
+      \strng{authornamehash}{a5ff83dd479a244a5038176aea2215d5}
+      \strng{authorfullhash}{a5ff83dd479a244a5038176aea2215d5}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Digital Humanities}
+      \field{month}{Winter}
+      \field{number}{1}
+      \field{title}{Defining Data for Humanists: Text, Artifact, Information or Evidence?}
+      \field{volume}{1}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/
+      \endverb
+    \endentry
+    \entry{schmid1994b}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=69b276056a5f6ac48835b47af0b8713e}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={Helmut},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Manchester, UK}%
+      }
+      \strng{namehash}{69b276056a5f6ac48835b47af0b8713e}
+      \strng{fullhash}{69b276056a5f6ac48835b47af0b8713e}
+      \strng{authornamehash}{69b276056a5f6ac48835b47af0b8713e}
+      \strng{authorfullhash}{69b276056a5f6ac48835b47af0b8713e}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on New Methods in Language Processing}
+      \field{title}{Probabilistic Part-of-Speech Tagging Using Decision Trees}
+      \field{year}{1994}
+      \field{pages}{44\bibrangedash 49}
+      \range{pages}{6}
+      \keyw{Gramotron,CorpLex}
+    \endentry
+    \entry{udpipe2017}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d709af6997b3ea76ee9b027f6dda0b00}{%
+           family={Straka},
+           familyi={S\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=361a5fb39b897f3a1fae1e021c24ea6e}{%
+           family={Straková},
+           familyi={S\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, Canada}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{ba6b5729413eb850549fa6d711f63ee1}
+      \strng{fullhash}{ba6b5729413eb850549fa6d711f63ee1}
+      \strng{authornamehash}{ba6b5729413eb850549fa6d711f63ee1}
+      \strng{authorfullhash}{ba6b5729413eb850549fa6d711f63ee1}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies}
+      \field{month}{8}
+      \field{title}{Tokenizing, POS Tagging, Lemmatizing and Parsing UD 2.0 with UDPipe}
+      \field{year}{2017}
+      \field{pages}{88\bibrangedash 99}
+      \range{pages}{12}
+      \verb{url}
+      \verb http://www.aclweb.org/anthology/K/K17/K17-3009.pdf
       \endverb
     \endentry
     \entry{surdich2008boccaccio}{book}{}
