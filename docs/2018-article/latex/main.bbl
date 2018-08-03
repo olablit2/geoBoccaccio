@@ -43,25 +43,29 @@
       \range{pages}{119}
     \endentry
     \entry{battaglia1993}{book}{}
-      \name{author}{2}{}{%
+      \name{author}{1}{}{%
         {{uniquename=0,hash=0f4a75a0c3d5090bfcf28d2a099e6ca3}{%
            family={Battaglia},
            familyi={B\bibinitperiod},
            given={Salvatore},
            giveni={S\bibinitperiod}}}%
-        {{uniquename=0,hash=5af449d3a7b81742014a24ce71464ca2}{%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1037cbf6082be851f7bdef4f430fd128}{%
            family={Russo},
            familyi={R\bibinitperiod},
-           given={V.},
+           given={Vittorio},
            giveni={V\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Liguori}%
       }
-      \strng{namehash}{20265b5d875c22153ec593b666c372fa}
-      \strng{fullhash}{20265b5d875c22153ec593b666c372fa}
-      \strng{authornamehash}{20265b5d875c22153ec593b666c372fa}
-      \strng{authorfullhash}{20265b5d875c22153ec593b666c372fa}
+      \strng{namehash}{0f4a75a0c3d5090bfcf28d2a099e6ca3}
+      \strng{fullhash}{0f4a75a0c3d5090bfcf28d2a099e6ca3}
+      \strng{authornamehash}{0f4a75a0c3d5090bfcf28d2a099e6ca3}
+      \strng{authorfullhash}{0f4a75a0c3d5090bfcf28d2a099e6ca3}
+      \strng{editornamehash}{1037cbf6082be851f7bdef4f430fd128}
+      \strng{editorfullhash}{1037cbf6082be851f7bdef4f430fd128}
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{year}
@@ -83,6 +87,13 @@
            given={Giovanni},
            giveni={G\bibinitperiod}}}%
       }
+      \name{editor}{1}{}{%
+        {{hash=b7e895bb845a5b29a7db7cc4504ff09a}{%
+           family={Salinari},
+           familyi={S\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+      }
       \list{publisher}{1}{%
         {Laterza}%
       }
@@ -90,6 +101,8 @@
       \strng{fullhash}{524f6bb46346bed549f49127cb7286cb}
       \strng{authornamehash}{524f6bb46346bed549f49127cb7286cb}
       \strng{authorfullhash}{524f6bb46346bed549f49127cb7286cb}
+      \strng{editornamehash}{b7e895bb845a5b29a7db7cc4504ff09a}
+      \strng{editorfullhash}{b7e895bb845a5b29a7db7cc4504ff09a}
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{year}
@@ -134,20 +147,20 @@
            giveni={G\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
-        {{hash=5612a13d941637deb6602b4c8ddfd24a}{%
+        {{hash=a316a316abc4649812ab68649cb9b3c6}{%
            family={Branca},
            familyi={B\bibinitperiod},
-           given={V.},
+           given={Vittorio},
            giveni={V\bibinitperiod}}}%
-        {{hash=3f1497ceb7aa8a32038e9d59893f55b8}{%
+        {{hash=ff365f2a17bedcb5b716322745409a4a}{%
            family={Zaccaria},
            familyi={Z\bibinitperiod},
-           given={V.},
+           given={Vittorio},
            giveni={V\bibinitperiod}}}%
-        {{hash=08c1744aa684931dbd741866766fb6a8}{%
-           family={Stocchi},
-           familyi={S\bibinitperiod},
-           given={M.P.},
+        {{hash=15cf55eb1ff767990d1a7970ee765434}{%
+           family={Pastore\bibnamedelima Stocchi},
+           familyi={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Manlio},
            giveni={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
@@ -157,8 +170,8 @@
       \strng{fullhash}{524f6bb46346bed549f49127cb7286cb}
       \strng{authornamehash}{524f6bb46346bed549f49127cb7286cb}
       \strng{authorfullhash}{524f6bb46346bed549f49127cb7286cb}
-      \strng{editornamehash}{fc24889e8c48d181f1d8f3c551d1ed8e}
-      \strng{editorfullhash}{fc24889e8c48d181f1d8f3c551d1ed8e}
+      \strng{editornamehash}{b02bd513f23abe71e460539f004e7542}
+      \strng{editorfullhash}{b02bd513f23abe71e460539f004e7542}
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{year}
@@ -220,30 +233,20 @@
       \endverb
     \endentry
     \entry{bolpagni2016}{book}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,hash=1e7126c119b85ff153069645ba69029b}{%
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e555208b66af3a4047afc7ccb048fdf9}{%
            family={Bolpagni},
            familyi={B\bibinitperiod},
-           given={M.},
+           given={Marcello},
            giveni={M\bibinitperiod}}}%
-        {{uniquename=0,hash=10676e963f5fb96644fb554f3b9d9129}{%
-           family={Pini},
-           familyi={P\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{uniquename=0,hash=724228b98794cc6beb02128c11aa4e97}{%
-           family={Burgazzi},
-           familyi={B\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Prospero Editore}%
       }
-      \strng{namehash}{4b4320efb26dafb55ae119b5e5a7f1ec}
-      \strng{fullhash}{4b4320efb26dafb55ae119b5e5a7f1ec}
-      \strng{authornamehash}{4b4320efb26dafb55ae119b5e5a7f1ec}
-      \strng{authorfullhash}{4b4320efb26dafb55ae119b5e5a7f1ec}
+      \strng{namehash}{e555208b66af3a4047afc7ccb048fdf9}
+      \strng{fullhash}{e555208b66af3a4047afc7ccb048fdf9}
+      \strng{authornamehash}{e555208b66af3a4047afc7ccb048fdf9}
+      \strng{authorfullhash}{e555208b66af3a4047afc7ccb048fdf9}
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{year}
@@ -259,25 +262,25 @@
     \endentry
     \entry{branca1977giovanni}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=5612a13d941637deb6602b4c8ddfd24a}{%
+        {{uniquename=0,hash=a9cdb44f3c984abde82f29c0fef56e26}{%
            family={Branca},
            familyi={B\bibinitperiod},
-           given={V.},
+           given={Vittore},
            giveni={V\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {G. C. Sansoni}%
       }
-      \strng{namehash}{5612a13d941637deb6602b4c8ddfd24a}
-      \strng{fullhash}{5612a13d941637deb6602b4c8ddfd24a}
-      \strng{authornamehash}{5612a13d941637deb6602b4c8ddfd24a}
-      \strng{authorfullhash}{5612a13d941637deb6602b4c8ddfd24a}
+      \strng{namehash}{a9cdb44f3c984abde82f29c0fef56e26}
+      \strng{fullhash}{a9cdb44f3c984abde82f29c0fef56e26}
+      \strng{authornamehash}{a9cdb44f3c984abde82f29c0fef56e26}
+      \strng{authorfullhash}{a9cdb44f3c984abde82f29c0fef56e26}
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{series}{La Civiltà europea}
+      \field{series}{La Civiltà Europea}
       \field{title}{Giovanni Boccaccio: profilo biografico}
       \field{year}{1977}
       \verb{url}
@@ -381,19 +384,19 @@
     \endentry
     \entry{getto1972vita}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=d66590b863d019369509037996ac2493}{%
+        {{uniquename=0,hash=f0cbf85f68b413714d70a464e734370d}{%
            family={Getto},
            familyi={G\bibinitperiod},
-           given={G.},
+           given={Giovani},
            giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {G. B. Petrini}%
       }
-      \strng{namehash}{d66590b863d019369509037996ac2493}
-      \strng{fullhash}{d66590b863d019369509037996ac2493}
-      \strng{authornamehash}{d66590b863d019369509037996ac2493}
-      \strng{authorfullhash}{d66590b863d019369509037996ac2493}
+      \strng{namehash}{f0cbf85f68b413714d70a464e734370d}
+      \strng{fullhash}{f0cbf85f68b413714d70a464e734370d}
+      \strng{authornamehash}{f0cbf85f68b413714d70a464e734370d}
+      \strng{authorfullhash}{f0cbf85f68b413714d70a464e734370d}
       \field{sortinit}{G}
       \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
       \field{labeldatesource}{year}
@@ -406,25 +409,20 @@
       \endverb
     \endentry
     \entry{lefebvre1978}{book}{}
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=273cfc35f628ae6e50d2c0cc3fba19ff}{%
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d433358027396905bf96da083bcd089b}{%
            family={Lefebvre},
            familyi={L\bibinitperiod},
-           given={H.},
+           given={Henri},
            giveni={H\bibinitperiod}}}%
-        {{uniquename=0,hash=ad7ab1ffffe1a223a97a13a4a3710089}{%
-           family={Ricci},
-           familyi={R\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Moizzi}%
       }
-      \strng{namehash}{fe2b2fa8929f87e1facfc60565811ab9}
-      \strng{fullhash}{fe2b2fa8929f87e1facfc60565811ab9}
-      \strng{authornamehash}{fe2b2fa8929f87e1facfc60565811ab9}
-      \strng{authorfullhash}{fe2b2fa8929f87e1facfc60565811ab9}
+      \strng{namehash}{d433358027396905bf96da083bcd089b}
+      \strng{fullhash}{d433358027396905bf96da083bcd089b}
+      \strng{authornamehash}{d433358027396905bf96da083bcd089b}
+      \strng{authorfullhash}{d433358027396905bf96da083bcd089b}
       \field{sortinit}{L}
       \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
       \field{labeldatesource}{year}
@@ -496,25 +494,29 @@
       \field{year}{2005}
     \endentry
     \entry{morosini2010boccaccio}{book}{}
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=daf28d5bbe303591db322551e8f79bee}{%
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8ddcf2724a4e3cdf118f254840fdf6c3}{%
            family={Morosini},
            familyi={M\bibinitperiod},
-           given={R.},
+           given={Roberta},
            giveni={R\bibinitperiod}}}%
-        {{uniquename=0,hash=7cc070b6217981079705b56c2a310d4f}{%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1e19a208d60763cdb4e3a2b65387f386}{%
            family={Cantile},
            familyi={C\bibinitperiod},
-           given={A.},
+           given={Andrea},
            giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {M. Pagliai}%
       }
-      \strng{namehash}{ae66930e3f0b76d7f612eebc9f053540}
-      \strng{fullhash}{ae66930e3f0b76d7f612eebc9f053540}
-      \strng{authornamehash}{ae66930e3f0b76d7f612eebc9f053540}
-      \strng{authorfullhash}{ae66930e3f0b76d7f612eebc9f053540}
+      \strng{namehash}{8ddcf2724a4e3cdf118f254840fdf6c3}
+      \strng{fullhash}{8ddcf2724a4e3cdf118f254840fdf6c3}
+      \strng{authornamehash}{8ddcf2724a4e3cdf118f254840fdf6c3}
+      \strng{authorfullhash}{8ddcf2724a4e3cdf118f254840fdf6c3}
+      \strng{editornamehash}{1e19a208d60763cdb4e3a2b65387f386}
+      \strng{editorfullhash}{1e19a208d60763cdb4e3a2b65387f386}
       \field{sortinit}{M}
       \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
       \field{labeldatesource}{year}
@@ -622,19 +624,19 @@
     \endentry
     \entry{surdich2008boccaccio}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=1b1342f73918c800ff17218b30040149}{%
+        {{uniquename=0,hash=490217c84045aa4964df25da2ba18d7c}{%
            family={Surdich},
            familyi={S\bibinitperiod},
-           given={L.},
+           given={Luigi},
            giveni={L\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Il mulino}%
+        {Il Mulino}%
       }
-      \strng{namehash}{1b1342f73918c800ff17218b30040149}
-      \strng{fullhash}{1b1342f73918c800ff17218b30040149}
-      \strng{authornamehash}{1b1342f73918c800ff17218b30040149}
-      \strng{authorfullhash}{1b1342f73918c800ff17218b30040149}
+      \strng{namehash}{490217c84045aa4964df25da2ba18d7c}
+      \strng{fullhash}{490217c84045aa4964df25da2ba18d7c}
+      \strng{authornamehash}{490217c84045aa4964df25da2ba18d7c}
+      \strng{authorfullhash}{490217c84045aa4964df25da2ba18d7c}
       \field{sortinit}{S}
       \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
       \field{labeldatesource}{year}

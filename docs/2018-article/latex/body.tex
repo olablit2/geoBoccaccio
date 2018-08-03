@@ -35,7 +35,7 @@ Catai (X 4) \footnote{Ove non diversamente indicato, l'edizione
   in corpo al testo segue il modello giornata (in numero romano),
   novella e, dove necessario, paragrafo} «una geografia così immensa e
 irrequieta, così gioiosa di vagabondare, da novella a novella e
-all'interno di una stessa novella» \autocite{getto1972vita}. In merito
+all'interno di una stessa novella \autocite{getto1972vita}. In merito
 alla geografia, la storia della critica decameroniana si è espressa in
 maniera saltuaria e difforme: il primo studio realmente focalizzato su
 questo argomento è arrivato soltanto nel 2011: si tratta dell'importante
@@ -319,10 +319,10 @@ giovani amano tre sorelle); V 1 (Cimone); V 2 (Gostanza e Martuccio); V
 3 (Pietro Boccamazza e l'Agnolella); V 6 (Gian di Procida) e X 9 (Il
 Saladino e messer Torello). Tutti i protagonisti di queste storie sono,
 per i più svariati eventi della sorte, impegnati in un viaggio: ma solo
-alcuni di loro lo sperimentano come «barriera potenziale»
-\^{}{[}L'autore di questa definizione è Dmitrij S. Lichačëv, all'interno
-di \autocite[pp.~26-39]{lotman1973}, come «stupefacente metafora del
-vissuto» \autocite[p.~550]{asor1992}. Tuttavia, non tutte le novelle
+alcuni di loro lo sperimentano come «barriera potenziale» \footnote{L'autore
+  di questa definizione è Dmitrij S. Lichačëv, all'interno di
+  \autocite[pp.~26-39]{lotman1973}, come «stupefacente metafora del
+  vissuto» \autocite[p.~550]{asor1992}.}. Tuttavia, non tutte le novelle
 succitate si svolgono in ruoli ``altri''. Rispettivamente, la storia di
 Beritola, quella di Pietro Boccamazza e quella di Gian di Procida
 rimangono all'interno dei confini nazionali, pur proponendo, tranne che
@@ -375,19 +375,18 @@ esame\footnote{Risulta necessario sottolineare, e lo faremo in maniera
   delle problematicità evidenti se riferite a testi antichi.}. Tale
 campione estratto dal proemio alla prima giornata --di per sé non
 rappresentativo-- consta di 267 parole nell'edizione di riferimento ed i
-suoi confini sono rappresentati dalle espressioni: ``\emph{Umana
-cosa}'', ``\emph{guisa che sol di sé}''\footnote{Le analisi sono state
-  effettuate su laptop equipaggiato con processore Intel(R) Core(TM) I5
-  M480 2.67GHz 64bit, 8GB RAM DDR3, OS: Linux Lubuntu 17.10, HD 1TB
-  5400rpm; compilatori per diversi linguaggi, tra cui Python e R.}.
+suoi confini sono rappresentati dalle espressioni: «Umana cosa», «guisa
+che sol di sé» \footnote{Le analisi sono state effettuate su laptop
+  equipaggiato con processore Intel(R) Core(TM) I5 M480 2.67GHz 64bit,
+  8GB RAM DDR3, OS: Linux Lubuntu 17.10, HD 1TB 5400rpm; compilatori per
+  diversi linguaggi, tra cui Python e R.}.
 
 La prima operazione è stata quella di rintracciare gli strumenti
 informatici che meglio potessero supportare le operazioni necessarie
-all'estrazione delle informazioni necessarie ai fini dell'analisi in
-oggetto. Le alternative principali che abbiamo valutato sono
-rappresentate da 4 tool di trattamento automatico del linguaggio
-(\emph{Natural Language Processing} (NLP)), che andremo a discutere di
-seguito:
+all'estrazione delle informazioni ai fini dell'analisi in oggetto. Le
+alternative principali che abbiamo valutato sono rappresentate da 4 tool
+di trattamento automatico del linguaggio (\emph{Natural Language
+Processing} (NLP)), che andremo a discutere di seguito:
 
 \begin{itemize}
 \item
@@ -402,7 +401,7 @@ seguito:
   C++, Python, Perl, Java, C\#, R e come servizio web. Nella presente
   analisi è stato utilizzato come libreria per ambiente R.
 \item
-  ITALIAN NLP\\
+  ItaliaNLP\\
   Interfaccia Web
 \item
   TreeTagger \autocite{schmid1994b}\\
@@ -430,9 +429,9 @@ tool in termini assoluti sulle 267 forme:
 
 \begin{longtable}[]{@{}llll@{}}
 \toprule
-& ITALIAN NLP & TT(UniPG) & PATTERN\tabularnewline
+& ItaliaNLP & TT(UniPG) & PATTERN\tabularnewline
 UDPIPE & 240 & 203 & 223\tabularnewline
-ITALIAN NLP & & 219 & 231\tabularnewline
+ItaliaNLP & & 219 & 231\tabularnewline
 TT(UniPG) & & & 198\tabularnewline
 \bottomrule
 \end{longtable}

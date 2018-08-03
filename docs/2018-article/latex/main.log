@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.4.22)  2 AUG 2018 12:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.4.22)  3 AUG 2018 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -906,20 +906,20 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 348.
  [9]
 [10]
-Underfull \vbox (badness 10000) detected at line 438
+Underfull \vbox (badness 10000) detected at line 437
  []
 
-<../charts/correctnessLib-Lemma.png, id=247, 602.25pt x 372.39125pt>
+<../charts/correctnessLib-Lemma.png, id=249, 602.25pt x 372.39125pt>
 File: ../charts/correctnessLib-Lemma.png Graphic file (type png)
 <use ../charts/correctnessLib-Lemma.png>
 Package pdftex.def Info: ../charts/correctnessLib-Lemma.png  used on input line
- 450. on input line 450.
+ 449. on input line 449.
 Package pdftex.def Info: Requested size: 251.9989pt x 155.81798pt on input line
- 450.
+ 449.
 [11 <../charts/correctnessLib-Lemma.png (PNG copy)>]
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0201.png' not found on input line 490.
+ut/maps/0201.png' not found on input line 489.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -929,12 +929,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.490 ...caccio/raw/master/data/out/maps/0201.png}
+l.489 ...caccio/raw/master/data/out/maps/0201.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0202.png' not found on input line 496.
+ut/maps/0202.png' not found on input line 495.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -944,12 +944,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.496 ...caccio/raw/master/data/out/maps/0202.png}
+l.495 ...caccio/raw/master/data/out/maps/0202.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0203.png' not found on input line 502.
+ut/maps/0203.png' not found on input line 501.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -959,12 +959,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.502 ...caccio/raw/master/data/out/maps/0203.png}
+l.501 ...caccio/raw/master/data/out/maps/0203.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0204.png' not found on input line 508.
+ut/maps/0204.png' not found on input line 507.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -974,12 +974,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.508 ...caccio/raw/master/data/out/maps/0204.png}
+l.507 ...caccio/raw/master/data/out/maps/0204.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0205.png' not found on input line 514.
+ut/maps/0205.png' not found on input line 513.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -989,12 +989,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.514 ...caccio/raw/master/data/out/maps/0205.png}
+l.513 ...caccio/raw/master/data/out/maps/0205.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0206.png' not found on input line 520.
+ut/maps/0206.png' not found on input line 519.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -1004,12 +1004,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.520 ...caccio/raw/master/data/out/maps/0206.png}
+l.519 ...caccio/raw/master/data/out/maps/0206.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0207.png' not found on input line 526.
+ut/maps/0207.png' not found on input line 525.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -1019,12 +1019,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.526 ...caccio/raw/master/data/out/maps/0207.png}
+l.525 ...caccio/raw/master/data/out/maps/0207.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0208.png' not found on input line 532.
+ut/maps/0208.png' not found on input line 531.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -1034,12 +1034,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.532 ...caccio/raw/master/data/out/maps/0208.png}
+l.531 ...caccio/raw/master/data/out/maps/0208.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0209.png' not found on input line 538.
+ut/maps/0209.png' not found on input line 537.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -1049,12 +1049,12 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.538 ...caccio/raw/master/data/out/maps/0209.png}
+l.537 ...caccio/raw/master/data/out/maps/0209.png}
                                                   
 ? 
 
 LaTeX Warning: File `https://github.com/olablit2/geoBoccaccio/raw/master/data/o
-ut/maps/0210.png' not found on input line 544.
+ut/maps/0210.png' not found on input line 543.
 
 
 ! Package pdftex.def Error: File `https://github.com/olablit2/geoBoccaccio/raw/
@@ -1064,18 +1064,18 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.544 ...caccio/raw/master/data/out/maps/0210.png}
+l.543 ...caccio/raw/master/data/out/maps/0210.png}
                                                   
 ? 
 [12] [13] [14]
-Overfull \hbox (590.60632pt too wide) in paragraph at lines 591--591
+Overfull \hbox (590.60632pt too wide) in paragraph at lines 590--590
 []    \T1/cmtt/m/n/10.95 =query({IMPORTRANGE("https://docs.google.com/spreadshe
 ets/d/1Qh7mGzfW2ow8RzOniqO_-60JST6pbT71dfzaz_GtV0k";"prova!A1:J15000")}; "SELEC
 T * WHERE Col5 CONTAINS'SP'";0)[] 
  []
 
 
-Overfull \hbox (7.79411pt too wide) in paragraph at lines 600--600
+Overfull \hbox (7.79411pt too wide) in paragraph at lines 599--599
 []\T1/cmtt/m/n/10.95 mlr --csv --rs lf --csv sort -f date,code *.csv > total/fi
 nal.csv[] 
  []
@@ -1107,9 +1107,9 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  12803 strings out of 492990
- 208954 string characters out of 6135005
- 652951 words of memory out of 5000000
- 16100 multiletter control sequences out of 15000+600000
+ 208956 string characters out of 6135005
+ 652953 words of memory out of 5000000
+ 16099 multiletter control sequences out of 15000+600000
  18580 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,8n,58p,765b,1878s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1126,10 +1126,10 @@ sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb></usr/s
 hare/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sftt1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 ftt1200.pfb>
-Output written on main.pdf (18 pages, 386336 bytes).
+Output written on main.pdf (18 pages, 386697 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 340 compressed objects within 4 object streams
- 88 named destinations out of 1000 (max. 500000)
+ 382 PDF objects out of 1000 (max. 8388607)
+ 342 compressed objects within 4 object streams
+ 89 named destinations out of 1000 (max. 500000)
  198 words of extra memory for PDF output out of 10000 (max. 10000000)
 
