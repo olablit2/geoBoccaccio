@@ -2169,8 +2169,9 @@
     <bcf:citekey order="23">owens2011</bcf:citekey>
     <bcf:citekey order="24">moretti2005</bcf:citekey>
     <bcf:citekey order="25">udpipe2017</bcf:citekey>
-    <bcf:citekey order="26">schmid1994b</bcf:citekey>
-    <bcf:citekey order="27">pattern2012</bcf:citekey>
+    <bcf:citekey order="26">attardi-et-al2009</bcf:citekey>
+    <bcf:citekey order="27">schmid1994b</bcf:citekey>
+    <bcf:citekey order="28">pattern2012</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global/" type="entry" sortscheme="nyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

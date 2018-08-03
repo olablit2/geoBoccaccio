@@ -22,7 +22,11 @@ url=false
 
 \usepackage{hyperref}
 
-\setcounter{section}{-1}
+%\setcounter{section}{-1}
+
+\makeatletter
+\def\fps@figure{h}
+\makeatother
 
 \begin{document}
 \title{Nuove prospettive per lo studio della toponomastica nel Decameron}
@@ -37,9 +41,20 @@ url=false
   \texttt{ORCID: 0000-0001-7017-7862}\\
 }\maketitle
 
+\begin{abstract}
+
+This research aims to investigate over a coherent way to extract geographical information by the Decameron’s novels of Boccaccio using modern tools.
+
+\textbf{Keywords}
+
+computational linguistics; reproducible research; 
+
+\end{abstract}
+
+
 \tableofcontents
 \newpage
 \input{body.tex}
-
+\newpage
 \printbibliography
 \end{document}

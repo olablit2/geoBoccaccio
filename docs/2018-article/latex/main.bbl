@@ -42,6 +42,48 @@
       \field{pages}{473\bibrangedash 591}
       \range{pages}{119}
     \endentry
+    \entry{attardi-et-al2009}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=09d5a7d636bf73c855ed5ef9bbd835eb}{%
+           family={Attardi},
+           familyi={A\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=18dc967263b005b6c493d7bb502cc88b}{%
+           family={Dell'Orletta},
+           familyi={D\bibinitperiod},
+           given={Felice},
+           giveni={F\bibinitperiod}}}%
+        {{uniquename=0,hash=c3ae74a4ae038cc65a1a038e2c1f885b}{%
+           family={Simi},
+           familyi={S\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=c24b335710b7bee2470322cfa5f31c25}{%
+           family={Turian},
+           familyi={T\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e0ff8a1f08a0cc6065c55af765d48772}
+      \strng{fullhash}{e5d241b7c8564d6a0786c3bf6fb679c2}
+      \strng{authornamehash}{e0ff8a1f08a0cc6065c55af765d48772}
+      \strng{authorfullhash}{e5d241b7c8564d6a0786c3bf6fb679c2}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract. DeSR is a statistical transition-based dependency parser which learns from annotated corpora which actions to perform for building parse trees while scanning a sentence. We describe recent improvements to the parser, in particular stacked parsing, exploiting a beam search strategy and using a Multilayer Perceptron classifier. For the Evalita 2009 Dependency Parsing task DesR was configured to use a combination of stacked parsers. The stacked combination achieved the best accuracy scores in both the main and pilot subtasks. The contribution to the result of various choices is analyzed, in particular for taking advantage of the peculiar features of the TUT Treebank.}
+      \field{booktitle}{Proceeding of Evalita 2009}
+      \field{series}{LNCS}
+      \field{title}{Accurate Dependency Parsing with a Stacked Multilayer Perceptron}
+      \field{year}{2009}
+      \keyw{classifier,dependency parsing,natural language,parser,perceptron}
+    \endentry
     \entry{battaglia1993}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=0f4a75a0c3d5090bfcf28d2a099e6ca3}{%

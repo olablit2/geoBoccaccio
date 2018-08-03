@@ -1,20 +1,3 @@
-\section{Prefazione}\label{prefazione}
-
-\subsection{Abstract}\label{abstract}
-
-This research aims to investigate over a coherent way to extract
-geographical information by the Decameron's novels of Boccaccio using
-modern tools.
-
-\subsection{Keywords}\label{keywords}
-
-computational linguistics; reproducible research;
-
-\subsection{Aknowledgments}\label{aknowledgments}
-
-Progetto parzialmente finanziato grazie al grant XXX dell'Università
-YYY.
-
 \section{Introduzione}\label{introduzione}
 
 \section{Brevi note sullo stato dell'arte nella geografia del
@@ -342,6 +325,12 @@ oggetto delle analisi che seguono.
 \section{L'approccio digitale: orizzonti e
 metodi}\label{lapproccio-digitale-orizzonti-e-metodi}
 
+\begin{figure}
+\centering
+\includegraphics[width=1.00000\textwidth]{../../../data/out/maps/placesProva.png}
+\caption{figure}
+\end{figure}
+
 \begin{itemize}
 \tightlist
 \item
@@ -378,8 +367,8 @@ rappresentativo-- consta di 267 parole nell'edizione di riferimento ed i
 suoi confini sono rappresentati dalle espressioni: «Umana cosa», «guisa
 che sol di sé» \footnote{Le analisi sono state effettuate su laptop
   equipaggiato con processore Intel(R) Core(TM) I5 M480 2.67GHz 64bit,
-  8GB RAM DDR3, OS: Linux Lubuntu 17.10, HD 1TB 5400rpm; compilatori per
-  diversi linguaggi, tra cui Python e R.}.
+  8GB RAM DDR3, HD 1TB 5400rpm; OS: Linux Lubuntu 17.10, compilatori per
+  diversi ambienti di sviluppo tra cui Python e R.}.
 
 La prima operazione è stata quella di rintracciare gli strumenti
 informatici che meglio potessero supportare le operazioni necessarie
@@ -401,8 +390,13 @@ Processing} (NLP)), che andremo a discutere di seguito:
   C++, Python, Perl, Java, C\#, R e come servizio web. Nella presente
   analisi è stato utilizzato come libreria per ambiente R.
 \item
-  ItaliaNLP\\
-  Interfaccia Web
+  ItaliaNLP \autocite{attardi-et-al2009}\\
+  Il tool LinguA, ad opera del laboratorio ItaliaNLP dell'Istituto di
+  Linguistica Computazionale ``Antonio Zampolli'' (ILC-CNR, presenta una
+  pipeline che permette la lemmatizzazione, il tagging delle parti del
+  discorso, il parsing delle dipendenze e la divisione del testo in
+  frasi. Permette l'analisi e il download dei documenti nelle lingue in
+  formato CoNNL tramite interfaccia web nelle lingue italiano e inglese.
 \item
   TreeTagger \autocite{schmid1994b}\\
   TreeTagger è un tagger di tipo probabilistico, disponibile per
@@ -446,7 +440,7 @@ i risultati attesi, sebbene la difficoltà di un testo antico.
 
 \begin{figure}
 \centering
-\includegraphics[width=0.70000\textwidth]{../charts/correctnessLib-Lemma.png}
+\includegraphics[width=1.00000\textwidth]{../charts/correctnessLib-Lemma2.png}
 \caption{Grafico di comparazione della correttezza dei lemmi
 riconosciuti automaticamente}
 \end{figure}
@@ -476,254 +470,4 @@ riconosciuti automaticamente}
   Limitatamente alla seconda giornata, possiamo stabilire se Boccaccio
   propone dei viaggi di pura avventura e \emph{divertissement} o se sono
   applicabili delle prospettive metaforiche?
-\end{itemize}
-
-\section{Conclusioni}\label{conclusioni}
-
-\section{Risorse}\label{risorse}
-
-\subsection{Maps}\label{maps}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0201.png}
-\caption{figure}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0202.png}
-\caption{figure}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0203.png}
-\caption{figure}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0204.png}
-\caption{figure}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0205.png}
-\caption{figure}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0206.png}
-\caption{figure}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0207.png}
-\caption{figure}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0208.png}
-\caption{figure}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0209.png}
-\caption{figure}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{https://github.com/olablit2/geoBoccaccio/raw/master/data/out/maps/0210.png}
-\caption{figure}
-\end{figure}
-
-\section{Temporaneo}\label{temporaneo}
-
-\subsection{Roadmap}\label{roadmap}
-
-\subsubsection{Objectives}\label{objectives}
-
-This research aims to investigate over a coherent way to extract
-geographical information in the narrative storytelling of Decameron 2nd
-day novelle by the perspective of the narration (extra-diegetic /
-fabula).
-
-\subsubsection{Pipeline}\label{pipeline}
-
-Preliminary steps * {[}DONE{]} Collect the corpus in a textual form
-(e.g.~liberliber) * {[}DONE{]} Clean the corpus * {[}DONE{]} Divide the
-corpus into partials (e.g.~0207.txt, 0203.txt \textbar{} namefile:
-NNnn.txt where NN=02) * Tools testing * {[}DONE{]} POS and Lemmatization
-correctness rate =\textgreater{} UDPIPE wins
-
-\subsubsection{Geographic information}\label{geographic-information}
-
-\begin{itemize}
-\tightlist
-\item
-  {[}DONE{]} Use UDPIPE with the 10 subcorpora. Write the relative
-  CONLL-U files of each partials
-\item
-  {[}DONE{]} Extract all the PROPN \textbar{} SP tokens for each
-  partials
-\end{itemize}
-
-Using R
-
-\begin{verbatim}
-    infile <- read.csv(CONNLU)
-    df <- infile[infile[,4] == "PROPN", ]
-    write.csv(df, outfile)
-\end{verbatim}
-
-(Using G Spreadsheet)
-
-\begin{verbatim}
-    =query({IMPORTRANGE("https://docs.google.com/spreadsheets/d/1Qh7mGzfW2ow8RzOniqO_-60JST6pbT71dfzaz_GtV0k";"prova!A1:J15000")}; "SELECT * WHERE Col5 CONTAINS'SP'";0)
-\end{verbatim}
-
-\subsection{Merge the various csv}\label{merge-the-various-csv}
-
-All the csv in the folder are merged into a total one. Alphabetically
-ordered
-
-\begin{verbatim}
-mlr --csv --rs lf --csv sort -f date,code *.csv > total/final.csv
-\end{verbatim}
-
-\begin{itemize}
-\tightlist
-\item
-  The given spreadsheets yields for a list of items of PNs. Order the
-  list alphabetically. Insert a manual column where the token is
-  standardized and give the relevant coords:
-\end{itemize}
-
-\begin{longtable}[]{@{}llll@{}}
-\toprule
-Item & Std & Long & Lat\tabularnewline
-\midrule
-\endhead
-Vinegia & Venezia & 45.4042008 & 12.1015609\tabularnewline
-\bottomrule
-\end{longtable}
-
-\begin{itemize}
-\tightlist
-\item
-  Don't delete PNs which are not strictly relevant to the actual
-  recognition: they serve as tools for tracing out the correctness rate
-  or other info.
-\item
-  Give parallel spreadsheets for each partials which yields a structured
-  array of PNs in texts. When merged with the previous one, it will
-  results for 3 columns of each term: the ones which have coords field
-  are the locations
-\item
-  Add a manual field to the spreadsheet which explicits the actors of
-  that location
-\end{itemize}
-
-\begin{longtable}[]{@{}lllll@{}}
-\toprule
-Item & Std & Long & Lat & Actor\tabularnewline
-\midrule
-\endhead
-Vinegia & Venezia & 45.4042008 & 12.1015609 & Buffalmacco\tabularnewline
-\bottomrule
-\end{longtable}
-
-\begin{itemize}
-\tightlist
-\item
-  Plot locations in map
-\item
-  Use the frequency list for the whole day
-\end{itemize}
-
-\subsection{Questions}\label{questions}
-
-\begin{itemize}
-\tightlist
-\item
-  Lo spostamento dei personaggi e/o della narrazione all'interno di una
-  novella prevede direzioni più frequenti di altre? (es. est-ovest,
-  nord-sud)
-\item
-  Quali le conseguenze narratologiche e morali di uno spostamento?
-\item
-  Possiamo identificare delle tendenze migratorie nella seconda
-  giornata?
-\end{itemize}
-
-\subsection{Note}\label{note}
-
-\begin{itemize}
-\item
-  Standardizzazione 17.7:
-\item
-  I ``Castel'' è da contestualizzare
-\item
-  II ``Grignano'' non lo so
-\item
-  III ``Ruga'' e ``Catalana'' valgono come un luogo (Napoli
-\item
-  IV ``Cresci'' e ``Valcava'' calgono come un luogo (Borgo S. Lorenzo)
-\end{itemize}
-
-prova marco
-
-\href{https://github.com/olablit2/geoBoccaccio/edit/master/docs/2018-article/index.md}{EDIT
-FILE}
-
-\section{Nuove prospettive per lo studio della toponomastica nel
-Decameron}\label{nuove-prospettive-per-lo-studio-della-toponomastica-nel-decameron}
-
-\textbf{Marcello Bolpagni}, \textbf{Marco Petolicchio}
-
-\begin{itemize}
-\tightlist
-\item
-  Dept. of General Linguistics, Palacky University Olomouc;
-  marcello.bolpagni@gmail.com
-\item
-  Dept. of Romance Languages, Palacky University Olomouc;
-  marco.petolicchio01@upol.cz; ORCID: 0000-0001-7017-7862
-\end{itemize}
-
-\subsection{Struttura}\label{struttura}
-
-\begin{itemize}
-\tightlist
-\item
-  \href{https://olablit2.github.io/geoBoccaccio/2018-article/05-preface}{Prefazione}
-\item
-  \href{https://olablit2.github.io/geoBoccaccio/2018-article/10-introduction}{Introduzione}
-\item
-  \href{https://olablit2.github.io/geoBoccaccio/2018-article/20-chapter1}{Ch.1}
-\item
-  \href{https://olablit2.github.io/geoBoccaccio/2018-article/30-chapter2}{Ch.2}
-\item
-  \href{https://olablit2.github.io/geoBoccaccio/2018-article/40-chapter3}{Ch.3}
-\item
-  \href{https://olablit2.github.io/geoBoccaccio/2018-article/50-chapter4}{Ch.4}
-\item
-  \href{https://olablit2.github.io/geoBoccaccio/2018-article/90-conclusion}{Conclusioni}
-\item
-  \href{https://olablit2.github.io/geoBoccaccio/2018-article/99-roadmap}{Roadmap}
-\item
-  Files
-
-  \begin{itemize}
-  \tightlist
-  \item
-    \href{https://olablit2.github.io/geoBoccaccio/2018-article/95-maps}{Mappe}
-  \end{itemize}
 \end{itemize}

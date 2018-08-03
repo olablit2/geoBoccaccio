@@ -54,12 +54,12 @@ datasource <- read.csv("data/out/places/totalPlaces.csv", header=TRUE)
 
 for (infile in 1:9){
 	indata <- read.csv(paste0("data/out/propn/020",infile,".csv"), header=TRUE)
-	outfile <- merge(datasource, indata, by='V2')
+	outfile <- merge(indata, datasource,  by='V2', sort=F)
 	write.csv(outfile, paste0("data/out/places/020",infile,".csv") )
 }
 
 	indata <- read.csv("data/out/propn/0210.csv", header=TRUE)
-	outfile <- merge(datasource, indata, by='V2')
+	outfile <- merge(indata, datasource,  by='V2', sort=F)
 	write.csv(outfile, "data/out/places/0210.csv") 
 
 
@@ -86,3 +86,10 @@ for (infile in 1:9){
 	mapPoints <- ggmap(map) + geom_point(aes(x=lon, y=lat), data = partialPlaces, alpha=.8)
 
 	ggsave("data/out/maps/0210.png",mapPoints, width=15, height=15)
+
+
+# Creo la mappa totale
+
+	mapPoints <- ggmap(map) + geom_point(aes(x=lon, y=lat), data = datasource, alpha=.8)
+
+	ggsave("data/out/maps/placesProva.png",mapPoints, width=15, height=15)

@@ -1,20 +1,20 @@
-[1] Config.pm:354> INFO - This is Biber 2.7 (beta)
+[0] Config.pm:354> INFO - This is Biber 2.7 (beta)
 [1] Config.pm:357> INFO - Logfile is 'main.blg'
-[49] biber:303> INFO - === ven ago  3, 2018, 16:31:42
-[68] Biber.pm:360> INFO - Reading 'main.bcf'
-[186] Biber.pm:836> INFO - Found 21 citekeys in bib section 0
-[208] Biber.pm:3671> INFO - Processing section 0
-[227] Biber.pm:3841> INFO - Looking for bibtex format file '../../assets/bibliography.bib' for section 0
-[234] bibtex.pm:1424> INFO - Decoding LaTeX character macros into UTF-8
-[249] bibtex.pm:1281> INFO - Found BibTeX data source '../../assets/bibliography.bib'
-[318] Utils.pm:164> WARN - month field 'Winter' in entry 'owens2011' is not an integer - this will probably not sort properly.
-[320] Utils.pm:164> WARN - ISBN '1844670260,9781844670260' in entry 'moretti2005' is invalid - run biber with '--validate_datamodel' for details.
-[324] Utils.pm:164> WARN - month field 'August' in entry 'udpipe2017' is not an integer - this will probably not sort properly.
-[327] Utils.pm:164> WARN - month field 'June' in entry 'pattern2012' is not an integer - this will probably not sort properly.
+[47] biber:303> INFO - === ven ago  3, 2018, 19:59:53
+[67] Biber.pm:360> INFO - Reading 'main.bcf'
+[183] Biber.pm:836> INFO - Found 22 citekeys in bib section 0
+[205] Biber.pm:3671> INFO - Processing section 0
+[224] Biber.pm:3841> INFO - Looking for bibtex format file '../../assets/bibliography.bib' for section 0
+[230] bibtex.pm:1424> INFO - Decoding LaTeX character macros into UTF-8
+[245] bibtex.pm:1281> INFO - Found BibTeX data source '../../assets/bibliography.bib'
+[312] Utils.pm:164> WARN - month field 'Winter' in entry 'owens2011' is not an integer - this will probably not sort properly.
+[314] Utils.pm:164> WARN - ISBN '1844670260,9781844670260' in entry 'moretti2005' is invalid - run biber with '--validate_datamodel' for details.
+[318] Utils.pm:164> WARN - month field 'August' in entry 'udpipe2017' is not an integer - this will probably not sort properly.
+[324] Utils.pm:164> WARN - month field 'June' in entry 'pattern2012' is not an integer - this will probably not sort properly.
 [385] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
 [385] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[385] Biber.pm:3500> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'it-IT'
-[385] Biber.pm:3506> INFO - No sort tailoring available for locale 'it-IT'
-[416] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[422] bbl.pm:712> INFO - Output to main.bbl
-[422] Biber.pm:110> INFO - WARNINGS: 4
+[386] Biber.pm:3500> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'it-IT'
+[386] Biber.pm:3506> INFO - No sort tailoring available for locale 'it-IT'
+[420] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[426] bbl.pm:712> INFO - Output to main.bbl
+[426] Biber.pm:110> INFO - WARNINGS: 4
