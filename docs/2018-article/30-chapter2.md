@@ -31,9 +31,9 @@ bla
 ## Gli strumenti usati
 
 L'indagine preliminare ha previsto l'estrazione di una porzione iniziale del testo dell'opera, usata come *campione d'indagine* per testare la validità e la correttezza degli strumenti informatici a disposizione in rapporto con i risultati attesi e lo stile linguistico del testo in esame^[Risulta necessario sottolineare, e lo faremo in maniera più esplicita nel corso dell'articolo, quanto l'uso di software e librerie designate per l'analisi del linguaggio odierno possa creare delle problematicità evidenti se riferite a testi antichi.].
-Tale campione estratto dal proemio alla prima giornata --di per sé non rappresentativo-- consta di 267 parole nell'edizione di riferimento ed i suoi confini sono rappresentati dalle espressioni: "*Umana cosa*", "*guisa che sol di sé*"^[Le analisi sono state effettuate su laptop equipaggiato con processore Intel(R) Core(TM) I5 M480 2.67GHz 64bit, 8GB RAM DDR3, OS: Linux Lubuntu 17.10, HD 1TB 5400rpm; compilatori per diversi linguaggi, tra cui Python e R.].  
+Tale campione estratto dal proemio alla prima giornata --di per sé non rappresentativo-- consta di 267 parole nell'edizione di riferimento ed i suoi confini sono rappresentati dalle espressioni: «Umana cosa», «guisa che sol di sé» ^[Le analisi sono state effettuate su laptop equipaggiato con processore Intel(R) Core(TM) I5 M480 2.67GHz 64bit, 8GB RAM DDR3, OS: Linux Lubuntu 17.10, HD 1TB 5400rpm; compilatori per diversi linguaggi, tra cui Python e R.].  
 
-La prima operazione è stata quella di rintracciare gli strumenti informatici che meglio potessero supportare le operazioni necessarie all'estrazione delle informazioni necessarie ai fini dell'analisi in oggetto.
+La prima operazione è stata quella di rintracciare gli strumenti informatici che meglio potessero supportare le operazioni necessarie all'estrazione delle informazioni ai fini dell'analisi in oggetto.
 Le alternative principali che abbiamo valutato sono rappresentate da 4 tool di trattamento automatico del linguaggio (*Natural Language Processing* (NLP)), che andremo a discutere di seguito:
 
 * UDPipe [@udpipe2017]  
