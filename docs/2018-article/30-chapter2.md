@@ -40,7 +40,7 @@ Le alternative principali che abbiamo valutato sono rappresentate da 4 tool di t
 Elaborato presso l'Università di Praga, UDPipe è un tool versatile che permette l'annotazione, il tagging, la lemmatizzazione e il parsing delle dipendenze sintattiche del documento, attraverso il caricamento di appositi dataset elaborati nella lingua-modello. Rilasciato con licenza aperta Mozilla Public License 2.0, accoglie nativamente la possibilità di lettura ed esportazione di file in formato standard CoNLL-U; è disponibile per Linux/ Windows/ OS X, come libreria per C++, Python, Perl, Java, C#, R e come servizio web.
 Nella presente analisi è stato utilizzato come libreria per ambiente R.
 
-* ITALIAN NLP  
+* ItaliaNLP  
 Interfaccia Web
 
 * TreeTagger [@schmid1994b]  
@@ -54,9 +54,9 @@ Si è proceduto dunque con l'operazione di lemmatizzazione automatica, comparand
  
 |             |             |           |         | 
 |-------------|-------------|-----------|---------| 
-|             | ITALIAN NLP | TT(UniPG) | PATTERN | 
+|             | ItaliaNLP 	| TT(UniPG) | PATTERN | 
 | UDPIPE      | 240         | 203       | 223     | 
-| ITALIAN NLP |             | 219       | 231     | 
+| ItaliaNLP	  |             | 219       | 231     | 
 | TT(UniPG)   |             |           | 198     | 
 
 
