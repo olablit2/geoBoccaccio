@@ -6,8 +6,11 @@ author: marco
 
 # L'approccio digitale: orizzonti e metodi
 
+Quello degli approcci digitali, informatici e computazionali allo studio letterario è un fertile terreno di ricerca, soprattutto negli ultimi anni e ha visto la crescita e la formazione di specifiche associazioni di studiosi nate con il compito di diffondere e discutere i modelli di tali conoscenze.
 
-![figure](../../../data/out/maps/placesProva.png "Logo Title Text 1"){height="auto" width="100%" ppi="600" dpi="600"}
+
+
+![Mappa complessiva dei luoghi citati in *Decameron* II](../../../data/out/maps/placesProva.png "Mappa complessiva dei luoghi citati in *Decameron* II"){height="auto" width="100%" ppi="600" dpi="600"}
 
 
 * Approccio quantitativo/ qualitativo.
@@ -62,9 +65,9 @@ Si è proceduto dunque con l'operazione di lemmatizzazione automatica, comparand
 
 
 
-Successivamente si è optata la scelta della valutazione manuale della correttezza dei tool, al fine di determinare quale tra gli strumenti in esame potesse meglio adattarsi all'analisi del documento in oggetto. La valutazione manuale, riportata di seguito, è stata elaborata sotto forma di percentuale rispetto al totale del campione, e vede UDPipe come quello che più fedelmente si è avvicinato ad un livello compatibile con i risultati attesi, sebbene la difficoltà di un testo antico.
+Successivamente si è optata la scelta della valutazione manuale della correttezza dei tool, al fine di determinare quale tra gli strumenti in esame potesse meglio adattarsi all'analisi del documento in oggetto. La valutazione manuale, riportata di seguito, è stata elaborata sotto forma di percentuale rispetto al totale del campione, e vede UDPipe come quello che più fedelmente si è avvicinato ad un livello compatibile con i risultati attesi, nonostante la difficoltà di operare su un testo antico attraverso tool trainati su un uso linguistico contemporaneo.
 
-![Grafico di comparazione della correttezza dei lemmi riconosciuti automaticamente](../charts/correctnessLib-Lemma2.png "Grafico di comparazione della correttezza dei lemmi riconosciuti automaticamente"){height="auto" width="100%" ppi="600" dpi="600"}
+![Grafico di comparazione della correttezza dei lemmi riconosciuti automaticamente](../charts/correctnessLibLemma2.png "Grafico di comparazione della correttezza dei lemmi riconosciuti automaticamente"){height="auto" width="100%" ppi="600" dpi="600"}
 
 
 ## La pipeline di lavoro

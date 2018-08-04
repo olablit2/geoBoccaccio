@@ -90,6 +90,8 @@ for (infile in 1:9){
 
 # Creo la mappa totale
 
+	map <- get_googlemap(c(lon=10,lat=40) ,zoom=4, xlim=c(0,40), ylim=c(20,50), maptype="satellite", crop=FALSE)
+
 	mapPoints <- ggmap(map) + geom_point(aes(x=lon, y=lat), data = datasource, alpha=.8)
 
 	ggsave("data/out/maps/placesProva.png",mapPoints, width=15, height=15)
