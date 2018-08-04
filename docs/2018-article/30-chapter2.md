@@ -6,7 +6,9 @@ author: marco
 
 # L'approccio digitale: orizzonti e metodi
 
-Quello degli approcci digitali, informatici e computazionali allo studio letterario è un fertile terreno di ricerca, soprattutto negli ultimi anni e ha visto la crescita e la formazione di specifiche associazioni di studiosi nate con il compito di diffondere e discutere i modelli di tali conoscenze.
+Quello degli approcci digitali, informatici e computazionali allo studio letterario è un fertile terreno di ricerca cresciuto esponenzialmente durante gli ultimi anni, che ha visto la crescita e la formazione di specifiche associazioni di studiosi nate con il compito di diffondere e discutere i modelli di tali conoscenze: da un mero sussidio metodologico ad una complessa rete di universi del sapere tra loro interconnessi che ne definiscono gli obiettivi della disciplina e gli sviluppi nel tempo.
+
+
 
 
 
