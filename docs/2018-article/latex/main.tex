@@ -1,14 +1,21 @@
 \documentclass[11pt,a4paper, oneside]{article}
+%\documentclass[11pt,a4paper, oneside, parskip=full]{scrartcl}
 
-\usepackage[T1]{fontenc}
+%\usepackage[T1]{fontenc}
 
-\usepackage[utf8]{inputenc}
+%\usepackage[utf8]{inputenc}
 
-\usepackage[italian]{babel}
+\usepackage{fontspec}
+\usepackage[polutonikogreek,italian]{babel}
+
+\setmainfont{Linux Libertine O}
+
+%\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
 
 \usepackage[
 backend=biber,
-style=authoryear,
+style=philosophy-modern,
 citestyle=authoryear-comp,
 url=false
 ]{biblatex}

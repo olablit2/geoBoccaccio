@@ -11,8 +11,7 @@ Quello degli approcci digitali, informatici e computazionali allo studio lettera
 
 
 
-
-![Mappa complessiva dei luoghi citati in *Decameron* II](../../../data/out/maps/placesProva.png "Mappa complessiva dei luoghi citati in *Decameron* II"){height="auto" width="100%" ppi="600" dpi="600"}
+![Mappa complessiva dei luoghi citati in *Decameron* II](../../../data/out/maps/placesProva.png "Mappa complessiva dei luoghi citati in *Decameron* II"){#fig:totalPlaces height="auto" width="100%" ppi="600" dpi="600"}
 
 
 * Approccio quantitativo/ qualitativo.
