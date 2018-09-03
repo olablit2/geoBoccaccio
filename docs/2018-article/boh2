@@ -1,0 +1,9 @@
+pandoc docs/2018-article/*.md --bibliography=docs/assets/bibliography.bib --biblatex -o docs/2018-article/latex/body.tex
+
+
+pandoc docs/2018-article/05-preface.md docs/2018-article/10-introduction.md docs/2018-article/20-chapter1.md docs/2018-article/30-chapter2.md --bibliography=docs/assets/bibliography.bib --biblatex -o docs/2018-article/latex/body.tex
+
+pandoc docs/2018-article/10-introduction.md docs/2018-article/20-chapter1.md docs/2018-article/30-chapter2.md --bibliography=docs/assets/bibliography.bib --biblatex -o docs/2018-article/latex/body.tex
+
+
+pandoc docs/2018-article/10-introduction.md docs/2018-article/20-chapter1.md docs/2018-article/30-chapter2.md docs/2018-article/40-chapter3.md docs/2018-article/90-conclusion.md --bibliography=docs/assets/bibliography.bib --biblatex -o docs/2018-article/latex/body.tex

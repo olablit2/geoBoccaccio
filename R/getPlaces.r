@@ -94,4 +94,4 @@ for (infile in 1:9){
 
 	mapPoints <- ggmap(map) + geom_point(aes(x=lon, y=lat), data = datasource, alpha=.8)
 
-	ggsave("data/out/maps/placesProva.png",mapPoints, width=15, height=15)
+	ggsave("data/out/maps/placesProva.png",mapPoints, width=5, height=5)
